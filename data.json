@@ -9,7 +9,7 @@
         "description": null,
         "homeTeam": "ATALANTA",
         "awayTeam": "HELLAS VERONA",
-        "stream": false,
+        "stream": "https://d2tlwqkcufpbja.cloudfront.net/out/v1/c87ea06d4dd6404c99bf788a0a8c0dde/index.mpd?start=1739022270",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
