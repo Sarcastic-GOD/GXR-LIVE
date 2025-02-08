@@ -67,7 +67,7 @@
         "description": null,
         "homeTeam": "GENOA ",
         "awayTeam": "TORINO ",
-        "stream": false,
+        "stream": "https://dszqopf434jq1.cloudfront.net/out/v1/549b7620305a41f694690b86e6ec2fa3/index.mpd?start=1739042970",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
