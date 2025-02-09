@@ -38,7 +38,7 @@
         "description": null,
         "homeTeam": "PARMA ",
         "awayTeam": "CAGLIARI ",
-        "stream": false,
+        "stream": "https://d35imbt4c4nhkc.cloudfront.net/out/v1/0a669b1ff2d343a7b7a781d86524aae2/index.mpd?start=1739108670",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -67,7 +67,7 @@
         "description": null,
         "homeTeam": "MONZA",
         "awayTeam": "LAZIO",
-        "stream": "match has not started yet",
+        "stream": "https://dnw7b2ycfmr1c.cloudfront.net/out/v1/7ab213236f08418882c6223caf434920/index.mpd?start=1739108670",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
