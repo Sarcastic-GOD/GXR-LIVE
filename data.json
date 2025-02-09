@@ -9,7 +9,7 @@
         "description": null,
         "homeTeam": "ROMA",
         "awayTeam": "VENEZIA",
-        "stream": "https://di1xojbttoyco.cloudfront.net/out/v1/2844b4587d044cebbfc69acff11edd1b/index.mpd?start=1739099670",
+        "stream": false,
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -125,7 +125,7 @@
         "description": null,
         "homeTeam": "UDINESE ",
         "awayTeam": "NAPOLI ",
-        "stream": "match has not started yet",
+        "stream": "https://d1uguf59dncrgi.cloudfront.net/out/v1/249e014f9527465a9b4a781d9dc22f3f/index.mpd?start=1739129370",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
