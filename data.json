@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "id": "67c7c232-8f0c-4f61-abd2-c64f08f87ddd",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09 Feb  - VENEZIA vs ROMA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "ROMA",
+        "awayTeam": "VENEZIA",
+        "schedules": [
+            {
+                "start": "09 Feb 2025, 05:00 PM, IST",
+                "end": "09 Feb 2025, 08:00 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "972a011b-daf2-4472-ba62-86984ed0107e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09 Feb  - CAGLIARI vs PARMA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "PARMA ",
+        "awayTeam": "CAGLIARI ",
+        "schedules": [
+            {
+                "start": "09 Feb 2025, 07:15 PM, IST",
+                "end": "09 Feb 2025, 10:15 PM, IST"
+            }
+        ]
+    }
+]
