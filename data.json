@@ -1,7 +1,7 @@
 [
     {
         "id": "67c7c232-8f0c-4f61-abd2-c64f08f87ddd",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "09 Feb  - VENEZIA vs ROMA",
         "broadcaster": "Serie A",
@@ -9,12 +9,24 @@
         "description": null,
         "homeTeam": "ROMA",
         "awayTeam": "VENEZIA",
+        "stream": false,
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Feb 2025, 05:00 PM, IST",
                 "end": "09 Feb 2025, 08:00 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "972a011b-daf2-4472-ba62-86984ed0107e",
