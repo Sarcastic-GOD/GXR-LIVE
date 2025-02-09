@@ -66,5 +66,22 @@
                 "end": "10 Feb 2025, 01:30 AM, IST"
             }
         ]
+    },
+    {
+        "id": "98bd72c5-7c04-44d5-bef9-1d093f424ec0",
+        "islive": false,
+        "event": "Serie A",
+        "name": "10 Feb  - NAPOLI vs UDINESE",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "UDINESE ",
+        "awayTeam": "NAPOLI ",
+        "schedules": [
+            {
+                "start": "10 Feb 2025, 01:15 AM, IST",
+                "end": "10 Feb 2025, 04:15 AM, IST"
+            }
+        ]
     }
 ]
