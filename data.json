@@ -30,7 +30,7 @@
     },
     {
         "id": "972a011b-daf2-4472-ba62-86984ed0107e",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "09 Feb  - CAGLIARI vs PARMA",
         "broadcaster": "Serie A",
@@ -38,16 +38,28 @@
         "description": null,
         "homeTeam": "PARMA ",
         "awayTeam": "CAGLIARI ",
+        "stream": "https://d35imbt4c4nhkc.cloudfront.net/out/v1/0a669b1ff2d343a7b7a781d86524aae2/index.mpd?start=1739108670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Feb 2025, 07:15 PM, IST",
                 "end": "09 Feb 2025, 10:15 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "554803f3-b76d-42b2-9c41-4759bcdac835",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "09 Feb  - LAZIO vs MONZA",
         "broadcaster": "Serie A",
@@ -55,12 +67,24 @@
         "description": null,
         "homeTeam": "MONZA",
         "awayTeam": "LAZIO",
+        "stream": "https://dnw7b2ycfmr1c.cloudfront.net/out/v1/7ab213236f08418882c6223caf434920/index.mpd?start=1739108670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Feb 2025, 07:15 PM, IST",
                 "end": "09 Feb 2025, 10:15 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "a0f2cc53-a804-45b8-98b7-3b3c179637b2",
