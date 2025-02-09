@@ -88,7 +88,7 @@
     },
     {
         "id": "a0f2cc53-a804-45b8-98b7-3b3c179637b2",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "09 Feb  - LECCE vs BOLOGNA",
         "broadcaster": "Serie A",
@@ -96,12 +96,24 @@
         "description": null,
         "homeTeam": "BOLOGNA",
         "awayTeam": "LECCE ",
+        "stream": "https://dkk2islej7dvf.cloudfront.net/out/v1/c1883bb5a3004b7cb2e3c2b60aafe41a/index.mpd?start=1739119470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Feb 2025, 10:30 PM, IST",
                 "end": "10 Feb 2025, 01:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "98bd72c5-7c04-44d5-bef9-1d093f424ec0",
