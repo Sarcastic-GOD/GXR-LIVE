@@ -17,23 +17,6 @@
         ]
     },
     {
-        "id": "972a011b-daf2-4472-ba62-86984ed0107e",
-        "islive": false,
-        "event": "Serie A",
-        "name": "09 Feb  - CAGLIARI vs PARMA",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": null,
-        "homeTeam": "PARMA ",
-        "awayTeam": "CAGLIARI ",
-        "schedules": [
-            {
-                "start": "09 Feb 2025, 07:15 PM, IST",
-                "end": "09 Feb 2025, 10:15 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "554803f3-b76d-42b2-9c41-4759bcdac835",
         "islive": false,
         "event": "Serie A",
@@ -43,6 +26,23 @@
         "description": null,
         "homeTeam": "MONZA",
         "awayTeam": "LAZIO",
+        "schedules": [
+            {
+                "start": "09 Feb 2025, 07:15 PM, IST",
+                "end": "09 Feb 2025, 10:15 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "972a011b-daf2-4472-ba62-86984ed0107e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09 Feb  - CAGLIARI vs PARMA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "PARMA ",
+        "awayTeam": "CAGLIARI ",
         "schedules": [
             {
                 "start": "09 Feb 2025, 07:15 PM, IST",
