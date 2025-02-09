@@ -38,7 +38,7 @@
         "description": null,
         "homeTeam": "PARMA ",
         "awayTeam": "CAGLIARI ",
-        "stream": "https://d35imbt4c4nhkc.cloudfront.net/out/v1/0a669b1ff2d343a7b7a781d86524aae2/index.mpd?start=1739108670",
+        "stream": false,
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -67,7 +67,7 @@
         "description": null,
         "homeTeam": "MONZA",
         "awayTeam": "LAZIO",
-        "stream": false,
+        "stream": "match has not started yet",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -96,7 +96,7 @@
         "description": null,
         "homeTeam": "BOLOGNA",
         "awayTeam": "LECCE ",
-        "stream": false,
+        "stream": "https://dkk2islej7dvf.cloudfront.net/out/v1/c1883bb5a3004b7cb2e3c2b60aafe41a/index.mpd?start=1739119470",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -125,7 +125,7 @@
         "description": null,
         "homeTeam": "UDINESE ",
         "awayTeam": "NAPOLI ",
-        "stream": false,
+        "stream": "https://d1uguf59dncrgi.cloudfront.net/out/v1/249e014f9527465a9b4a781d9dc22f3f/index.mpd?start=1739129370",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
