@@ -32,5 +32,39 @@
                 "end": "09 Feb 2025, 10:15 PM, IST"
             }
         ]
+    },
+    {
+        "id": "554803f3-b76d-42b2-9c41-4759bcdac835",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09 Feb  - LAZIO vs MONZA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "MONZA",
+        "awayTeam": "LAZIO",
+        "schedules": [
+            {
+                "start": "09 Feb 2025, 07:15 PM, IST",
+                "end": "09 Feb 2025, 10:15 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "a0f2cc53-a804-45b8-98b7-3b3c179637b2",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09 Feb  - LECCE vs BOLOGNA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "BOLOGNA",
+        "awayTeam": "LECCE ",
+        "schedules": [
+            {
+                "start": "09 Feb 2025, 10:30 PM, IST",
+                "end": "10 Feb 2025, 01:30 AM, IST"
+            }
+        ]
     }
 ]
