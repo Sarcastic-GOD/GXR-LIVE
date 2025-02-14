@@ -30,7 +30,7 @@
     },
     {
         "id": "085adaec-fcd3-41d6-8d30-fdc4b52c3e55",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "15 Feb - Girona FC vs Getafe CF ",
         "broadcaster": "LaLiga",
@@ -38,11 +38,23 @@
         "description": null,
         "homeTeam": "Getafe CF",
         "awayTeam": "Girona FC",
+        "stream": "https://dt2ns75ahgyvq.cloudfront.net/out/v1/fff5960669524ce58f09cf1eea7d45fd/index.mpd?start=1739562270",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "15 Feb 2025, 01:30 AM, IST",
                 "end": "15 Feb 2025, 04:31 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     }
 ]
