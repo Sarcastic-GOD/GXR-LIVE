@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "e830b93c-4367-40fa-8a57-f673395fa9d7",
+        "islive": false,
+        "event": null,
+        "name": "14 Feb - BOLOGNA vs TORINO",
+        "broadcaster": null,
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "TORINO ",
+        "awayTeam": "BOLOGNA",
+        "schedules": [
+            {
+                "start": "15 Feb 2025, 01:15 AM, IST",
+                "end": "15 Feb 2025, 05:15 AM, IST"
+            }
+        ]
+    }
+]
