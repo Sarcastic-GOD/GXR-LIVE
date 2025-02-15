@@ -45,8 +45,8 @@
         "awayTeam": "CA Osasuna",
         "schedules": [
             {
-                "start": "15 Feb 2025, 09:15 PM, IST",
-                "end": "16 Feb 2025, 12:15 AM, IST"
+                "start": "15 Feb 2025, 08:45 PM, IST",
+                "end": "15 Feb 2025, 11:45 PM, IST"
             }
         ]
     },
@@ -89,15 +89,15 @@
         "islive": false,
         "event": "Serie A",
         "name": "16 Feb - MILAN vs HELLAS VERONA",
-        "broadcaster": null,
+        "broadcaster": "Serie A",
         "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
         "description": null,
         "homeTeam": "HELLAS VERONA",
         "awayTeam": "Milan",
         "schedules": [
             {
-                "start": "16 Feb 2025, 01:00 AM, IST",
-                "end": "16 Feb 2025, 04:00 AM, IST"
+                "start": "16 Feb 2025, 01:15 AM, IST",
+                "end": "16 Feb 2025, 04:15 AM, IST"
             }
         ]
     },
