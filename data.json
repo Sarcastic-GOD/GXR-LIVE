@@ -100,5 +100,22 @@
                 "end": "16 Feb 2025, 04:00 AM, IST"
             }
         ]
+    },
+    {
+        "id": "45a57a16-4bb6-48ba-910f-7bfb9eaea7ae",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16 Feb - Villarreal CF vs Valencia CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/15/LALIGA-Generic-Poster-1737808604364-1739588735237.jpg",
+        "description": null,
+        "homeTeam": "Valencia CF ",
+        "awayTeam": "Valencia CF ",
+        "schedules": [
+            {
+                "start": "16 Feb 2025, 01:30 AM, IST",
+                "end": "16 Feb 2025, 04:30 AM, IST"
+            }
+        ]
     }
 ]
