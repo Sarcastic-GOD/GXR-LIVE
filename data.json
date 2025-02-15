@@ -117,7 +117,7 @@
     },
     {
         "id": "b1cd68e7-e79a-430d-a7a2-73cdf0b91bec",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "15 Feb - Atlético de Madrid vs RC Celta",
         "broadcaster": "LaLiga",
@@ -125,12 +125,24 @@
         "description": null,
         "homeTeam": "RC Celta",
         "awayTeam": "Atlético de Madrid",
+        "stream": "https://d151ncga3unlui.cloudfront.net/out/v1/b067b8fe5a674be4a3514296a1d36a12/index.mpd?start=1739639670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "15 Feb 2025, 11:00 PM, IST",
                 "end": "16 Feb 2025, 02:00 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "ab03b9af-b7d2-4982-9182-3c7813193fe6",
