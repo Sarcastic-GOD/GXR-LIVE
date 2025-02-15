@@ -15,5 +15,22 @@
                 "end": "15 Feb 2025, 10:30 PM, IST"
             }
         ]
+    },
+    {
+        "id": "e1ee6d18-751c-4580-8560-b0903664e9ac",
+        "islive": false,
+        "event": "Serie A",
+        "name": "15 Feb - LAZIO vs NAPOLI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "NAPOLI ",
+        "awayTeam": "LAZIO",
+        "schedules": [
+            {
+                "start": "15 Feb 2025, 10:30 PM, IST",
+                "end": "16 Feb 2025, 01:30 AM, IST"
+            }
+        ]
     }
 ]
