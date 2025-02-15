@@ -175,7 +175,7 @@
     },
     {
         "id": "45a57a16-4bb6-48ba-910f-7bfb9eaea7ae",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "16 Feb - Villarreal CF vs Valencia CF",
         "broadcaster": "LaLiga",
@@ -183,11 +183,23 @@
         "description": null,
         "homeTeam": "Valencia CF ",
         "awayTeam": "Villarreal CF",
+        "stream": "https://d3aihgp5i6s12a.cloudfront.net/out/v1/ea7825b3b5734554a372cde0c911c471/index.mpd?start=1739648670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "16 Feb 2025, 01:30 AM, IST",
                 "end": "16 Feb 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     }
 ]
