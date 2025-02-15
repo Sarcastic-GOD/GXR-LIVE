@@ -30,7 +30,7 @@
     },
     {
         "id": "72193c6f-16ee-4635-b403-7561d8e88a7b",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "15 Feb - ATALANTA vs CAGLIARI",
         "broadcaster": "Serie A",
@@ -38,12 +38,24 @@
         "description": null,
         "homeTeam": "CAGLIARI ",
         "awayTeam": "ATALANTA",
+        "stream": "https://d1m62bpxzgsz7f.cloudfront.net/out/v1/624f87a4c3cf407b8d52512a4ce59bbc/index.mpd?start=1739627070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "15 Feb 2025, 07:30 PM, IST",
                 "end": "15 Feb 2025, 10:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "5e60eac8-3c4d-4ce1-9f8e-b551d25dc6af",
