@@ -11,8 +11,8 @@
         "awayTeam": "CD Leganés",
         "schedules": [
             {
-                "start": "15 Feb 2025, 03:30 PM, IST",
-                "end": "15 Feb 2025, 06:30 PM, IST"
+                "start": "15 Feb 2025, 06:30 PM, IST",
+                "end": "15 Feb 2025, 09:30 PM, IST"
             }
         ]
     },
@@ -30,6 +30,23 @@
             {
                 "start": "15 Feb 2025, 07:30 PM, IST",
                 "end": "15 Feb 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "5e60eac8-3c4d-4ce1-9f8e-b551d25dc6af",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "15 Feb - CA Osasuna vs Real Madrid",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/25/LALIGA-Generic-Poster-1737808604364.jpg",
+        "description": null,
+        "homeTeam": "Real Madrid",
+        "awayTeam": "CA Osasuna",
+        "schedules": [
+            {
+                "start": "15 Feb 2025, 09:15 PM, IST",
+                "end": "16 Feb 2025, 12:15 AM, IST"
             }
         ]
     },
