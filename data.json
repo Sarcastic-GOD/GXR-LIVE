@@ -88,7 +88,7 @@
     },
     {
         "id": "e1ee6d18-751c-4580-8560-b0903664e9ac",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "15 Feb - LAZIO vs NAPOLI",
         "broadcaster": "Serie A",
@@ -96,12 +96,24 @@
         "description": null,
         "homeTeam": "NAPOLI ",
         "awayTeam": "LAZIO",
+        "stream": "https://d235ajzeekbj0y.cloudfront.net/out/v1/ce54044757984ba3a08f7787486bf9b3/index.mpd?start=1739637870",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "15 Feb 2025, 10:30 PM, IST",
                 "end": "16 Feb 2025, 01:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "b1cd68e7-e79a-430d-a7a2-73cdf0b91bec",
