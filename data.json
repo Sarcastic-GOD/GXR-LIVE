@@ -1,7 +1,7 @@
 [
     {
         "id": "238cacdf-0c45-422c-a4aa-9a284ac43e57",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "15 Feb - CD Leganés vs Deportivo Alavés",
         "broadcaster": "LaLiga",
@@ -9,12 +9,24 @@
         "description": null,
         "homeTeam": "Deportivo Alavés",
         "awayTeam": "CD Leganés",
+        "stream": "https://dttv5xik74xaf.cloudfront.net/out/v1/4a9d932c18454ccf83122721ee62ae5d/index.mpd?start=1739623470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "15 Feb 2025, 06:30 PM, IST",
                 "end": "15 Feb 2025, 09:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "72193c6f-16ee-4635-b403-7561d8e88a7b",
