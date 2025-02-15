@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "72193c6f-16ee-4635-b403-7561d8e88a7b",
+        "islive": false,
+        "event": "Serie A",
+        "name": "15 Feb - ATALANTA vs CAGLIARI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "CAGLIARI ",
+        "awayTeam": "ATALANTA",
+        "schedules": [
+            {
+                "start": "15 Feb 2025, 07:30 PM, IST",
+                "end": "15 Feb 2025, 10:30 PM, IST"
+            }
+        ]
+    }
+]
