@@ -68,6 +68,23 @@
         ]
     },
     {
+        "id": "b1cd68e7-e79a-430d-a7a2-73cdf0b91bec",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "15 Feb - Atlético de Madrid vs RC Celta",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/15/LALIGA-Generic-Poster-1737808604364-1739587386876.jpg",
+        "description": null,
+        "homeTeam": "RC Celta",
+        "awayTeam": "Atlético de Madrid",
+        "schedules": [
+            {
+                "start": "15 Feb 2025, 11:00 PM, IST",
+                "end": "16 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
         "id": "ab03b9af-b7d2-4982-9182-3c7813193fe6",
         "islive": false,
         "event": "Serie A",
