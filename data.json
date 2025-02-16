@@ -34,23 +34,6 @@
         ]
     },
     {
-        "id": "9ead2078-3152-44e5-b6e6-24b4b8c5af76",
-        "islive": false,
-        "event": "Serie A",
-        "name": "16 Feb - UDINESE vs EMPOLI",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": null,
-        "homeTeam": "EMPOLI ",
-        "awayTeam": "UDINESE ",
-        "schedules": [
-            {
-                "start": "16 Feb 2025, 07:30 PM, IST",
-                "end": "16 Feb 2025, 09:30 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "ff1c5301-2eec-4734-98d6-1cdca8238de1",
         "islive": false,
         "event": "Serie A",
@@ -60,6 +43,23 @@
         "description": null,
         "homeTeam": "LECCE ",
         "awayTeam": "MONZA",
+        "schedules": [
+            {
+                "start": "16 Feb 2025, 07:30 PM, IST",
+                "end": "16 Feb 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "9ead2078-3152-44e5-b6e6-24b4b8c5af76",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16 Feb - UDINESE vs EMPOLI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "EMPOLI ",
+        "awayTeam": "UDINESE ",
         "schedules": [
             {
                 "start": "16 Feb 2025, 07:30 PM, IST",
@@ -137,7 +137,7 @@
     },
     {
         "id": "83760ffe-8881-4e5b-bb2d-271ad5904207",
-        "islive": true,
+        "islive": false,
         "event": "Serie A",
         "name": "17 Feb - JUVENTUS vs INTER",
         "broadcaster": "Serie A",
@@ -145,23 +145,11 @@
         "description": null,
         "homeTeam": "INTER",
         "awayTeam": "JUVENTUS",
-        "stream": "match has not started yet",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "17 Feb 2025, 01:30 AM, IST",
                 "end": "17 Feb 2025, 04:30 AM, IST"
             }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
+        ]
     }
 ]
