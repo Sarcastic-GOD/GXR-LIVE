@@ -117,7 +117,7 @@
     },
     {
         "id": "106b2d06-dbb4-48f8-9c34-6d8b33f43331",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "16 Feb - Real Valladolid CF vs Sevilla FC",
         "broadcaster": "LaLiga",
@@ -125,12 +125,24 @@
         "description": null,
         "homeTeam": "Sevilla FC",
         "awayTeam": "Real Valladolid CF",
+        "stream": "https://dmrj5kl4v0io4.cloudfront.net/out/v1/e15f568039f24ebf8dfbb8a97c0a5f0a/index.mpd?start=1739717970",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "16 Feb 2025, 08:45 PM, IST",
                 "end": "16 Feb 2025, 11:45 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "2de590e8-3109-45d8-8813-7ec0bec27cbc",
