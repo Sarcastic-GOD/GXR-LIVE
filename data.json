@@ -203,23 +203,6 @@
         }
     },
     {
-        "id": "6e807820-aa98-4469-ba85-60d9d2f9b4e7",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "17 Feb - Real Betis vs Real Sociedad",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/16/LALIGA-Generic-Poster-1737808604364-1739673583089.jpg",
-        "description": null,
-        "homeTeam": "Real Sociedad",
-        "awayTeam": "Real Betis",
-        "schedules": [
-            {
-                "start": "17 Feb 2025, 01:30 AM, IST",
-                "end": "17 Feb 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "83760ffe-8881-4e5b-bb2d-271ad5904207",
         "islive": false,
         "event": "Serie A",
@@ -229,6 +212,23 @@
         "description": null,
         "homeTeam": "INTER",
         "awayTeam": "JUVENTUS",
+        "schedules": [
+            {
+                "start": "17 Feb 2025, 01:15 AM, IST",
+                "end": "17 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "6e807820-aa98-4469-ba85-60d9d2f9b4e7",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "17 Feb - Real Betis vs Real Sociedad",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/16/LALIGA-Generic-Poster-1737808604364-1739673583089.jpg",
+        "description": null,
+        "homeTeam": "Real Sociedad",
+        "awayTeam": "Real Betis",
         "schedules": [
             {
                 "start": "17 Feb 2025, 01:30 AM, IST",
