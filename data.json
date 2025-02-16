@@ -119,23 +119,6 @@
         ]
     },
     {
-        "id": "83760ffe-8881-4e5b-bb2d-271ad5904207",
-        "islive": false,
-        "event": "Serie A",
-        "name": "17 Feb - JUVENTUS vs INTER",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": null,
-        "homeTeam": "INTER",
-        "awayTeam": "JUVENTUS",
-        "schedules": [
-            {
-                "start": "17 Feb 2025, 01:30 AM, IST",
-                "end": "17 Feb 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "6e807820-aa98-4469-ba85-60d9d2f9b4e7",
         "islive": false,
         "event": "LaLiga",
@@ -145,6 +128,23 @@
         "description": null,
         "homeTeam": "Real Sociedad",
         "awayTeam": "Real Betis",
+        "schedules": [
+            {
+                "start": "17 Feb 2025, 01:30 AM, IST",
+                "end": "17 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "83760ffe-8881-4e5b-bb2d-271ad5904207",
+        "islive": false,
+        "event": "Serie A",
+        "name": "17 Feb - JUVENTUS vs INTER",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "INTER",
+        "awayTeam": "JUVENTUS",
         "schedules": [
             {
                 "start": "17 Feb 2025, 01:30 AM, IST",
