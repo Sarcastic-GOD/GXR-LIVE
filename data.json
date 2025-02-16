@@ -120,7 +120,7 @@
     },
     {
         "id": "83760ffe-8881-4e5b-bb2d-271ad5904207",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "17 Feb - JUVENTUS vs INTER",
         "broadcaster": "Serie A",
@@ -128,12 +128,24 @@
         "description": null,
         "homeTeam": "INTER",
         "awayTeam": "JUVENTUS",
+        "stream": "match has not started yet",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "17 Feb 2025, 01:30 AM, IST",
                 "end": "17 Feb 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "6e807820-aa98-4469-ba85-60d9d2f9b4e7",
