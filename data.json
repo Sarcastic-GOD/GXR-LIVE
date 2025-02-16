@@ -17,18 +17,18 @@
         ]
     },
     {
-        "id": "ff1c5301-2eec-4734-98d6-1cdca8238de1",
+        "id": "3edbb634-c0cd-4825-b027-0a321144f9d5",
         "islive": false,
-        "event": "Serie A",
-        "name": "16 Feb - MONZA vs LECCE",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "event": "LaLiga",
+        "name": "16 Feb - Espanyol vs Athletic Club",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/16/LALIGA-Generic-Poster-1737808604364-1739673226192.jpg",
         "description": null,
-        "homeTeam": "LECCE ",
-        "awayTeam": "MONZA",
+        "homeTeam": "Athletic Club",
+        "awayTeam": "RCD Espanyol de Barcelona",
         "schedules": [
             {
-                "start": "16 Feb 2025, 07:30 PM, IST",
+                "start": "16 Feb 2025, 06:30 PM, IST",
                 "end": "16 Feb 2025, 09:30 PM, IST"
             }
         ]
@@ -51,6 +51,40 @@
         ]
     },
     {
+        "id": "ff1c5301-2eec-4734-98d6-1cdca8238de1",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16 Feb - MONZA vs LECCE",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "LECCE ",
+        "awayTeam": "MONZA",
+        "schedules": [
+            {
+                "start": "16 Feb 2025, 07:30 PM, IST",
+                "end": "16 Feb 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "106b2d06-dbb4-48f8-9c34-6d8b33f43331",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16 Feb - Real Valladolid CF vs Sevilla FC",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/16/LALIGA-Generic-Poster-1737808604364-1739673323011.jpg",
+        "description": null,
+        "homeTeam": "Sevilla FC",
+        "awayTeam": "Real Valladolid CF",
+        "schedules": [
+            {
+                "start": "16 Feb 2025, 08:45 PM, IST",
+                "end": "16 Feb 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
         "id": "2de590e8-3109-45d8-8813-7ec0bec27cbc",
         "islive": false,
         "event": "Serie A",
@@ -64,6 +98,40 @@
             {
                 "start": "16 Feb 2025, 10:30 PM, IST",
                 "end": "17 Feb 2025, 01:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "74a9c7fa-13f1-4af1-96a5-5e3df9672d6b",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16 Feb - RCD Mallorca vs UD Las Palmas",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/16/LALIGA-Generic-Poster-1737808604364-1739673451971.jpg",
+        "description": null,
+        "homeTeam": "UD Las Palmas",
+        "awayTeam": "RCD Mallorca",
+        "schedules": [
+            {
+                "start": "16 Feb 2025, 11:00 PM, IST",
+                "end": "17 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "83760ffe-8881-4e5b-bb2d-271ad5904207",
+        "islive": false,
+        "event": "Serie A",
+        "name": "17 Feb - JUVENTUS vs INTER",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "INTER",
+        "awayTeam": "JUVENTUS",
+        "schedules": [
+            {
+                "start": "17 Feb 2025, 01:30 AM, IST",
+                "end": "17 Feb 2025, 04:30 AM, IST"
             }
         ]
     }
