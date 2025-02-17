@@ -1,7 +1,7 @@
 [
     {
         "id": "8356ba34-6240-4ab6-a515-f0eabec44c75",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "18 Feb - GENOA vs VENEZIA",
         "broadcaster": "Serie A",
@@ -9,12 +9,24 @@
         "description": null,
         "homeTeam": "VENEZIA",
         "awayTeam": "GENOA ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/540e2ba2-4df9-23cd-e2dd-268b6465ad1b/DASH/master.mpd?start=1739820570",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "18 Feb 2025, 01:15 AM, IST",
                 "end": "18 Feb 2025, 04:15 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "51c520d2-495f-45f0-b7f1-58fec44ce91b",
