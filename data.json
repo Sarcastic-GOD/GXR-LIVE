@@ -30,19 +30,31 @@
     },
     {
         "id": "51c520d2-495f-45f0-b7f1-58fec44ce91b",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "18 Feb - FC Barcelona vs Rayo Vallecano",
         "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/17/18-02-Barcelona-vs-Rayo-Vallecano-1--1739809274363.jpg",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/17/18-02-Barcelona-vs-Rayo-Vallecano-1739820923758.jpg",
         "description": null,
         "homeTeam": "Rayo Vallecano",
         "awayTeam": "FC Barcelona",
+        "stream": "https://d2a0o3cm7yg926.cloudfront.net/out/v1/d4963fe6af79424ca2f40dfad754aea5/index.mpd?start=1739821470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "18 Feb 2025, 01:30 AM, IST",
                 "end": "18 Feb 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     }
 ]
