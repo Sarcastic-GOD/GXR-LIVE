@@ -1,5 +1,22 @@
 [
     {
+        "id": "8356ba34-6240-4ab6-a515-f0eabec44c75",
+        "islive": false,
+        "event": "Serie A",
+        "name": "18 Feb - GENOA vs VENEZIA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": null,
+        "homeTeam": "VENEZIA",
+        "awayTeam": "GENOA ",
+        "schedules": [
+            {
+                "start": "18 Feb 2025, 01:15 AM, IST",
+                "end": "18 Feb 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
         "id": "51c520d2-495f-45f0-b7f1-58fec44ce91b",
         "islive": false,
         "event": "LaLiga",
