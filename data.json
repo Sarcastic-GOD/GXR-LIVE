@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "51c520d2-495f-45f0-b7f1-58fec44ce91b",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "18 Feb - FC Barcelona vs Rayo Vallecano",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/16/LALIGA-Generic-Poster-1737808604364-1739673583089.jpg",
+        "description": null,
+        "homeTeam": "Rayo Vallecano",
+        "awayTeam": "FC Barcelona",
+        "schedules": [
+            {
+                "start": "18 Feb 2025, 01:30 AM, IST",
+                "end": "18 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    }
+]
