@@ -146,7 +146,7 @@
     },
     {
         "id": "c6c4326d-9b8c-4e21-bcd1-693b4d2b2002",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "22/02 - TORINO vs MILAN",
         "broadcaster": "Serie A",
@@ -154,12 +154,24 @@
         "description": "",
         "homeTeam": "Milan",
         "awayTeam": "TORINO ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/4b29b2e6-bccf-07a0-77b7-4aac1a1706fa/DASH/master.mpd?start=1740242670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "22 Feb 2025, 10:30 PM, IST",
                 "end": "23 Feb 2025, 01:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "c73d4efc-8ab5-4791-950e-1a03665b132a",
