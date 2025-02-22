@@ -17,23 +17,6 @@
         ]
     },
     {
-        "id": "0b17d849-a73f-4fa9-9a95-6f63af5ca913",
-        "islive": false,
-        "event": "Serie A",
-        "name": "22/02 - PARMA vs BOLOGNA",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "BOLOGNA",
-        "awayTeam": "PARMA ",
-        "schedules": [
-            {
-                "start": "22 Feb 2025, 07:30 PM, IST",
-                "end": "22 Feb 2025, 10:30 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "492ea013-c89a-4254-89da-856c32294a4d",
         "islive": false,
         "event": "Serie A",
@@ -51,19 +34,19 @@
         ]
     },
     {
-        "id": "cfe32f24-e4b0-4221-9591-e9d93c21f788",
+        "id": "0b17d849-a73f-4fa9-9a95-6f63af5ca913",
         "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "22/02 - SD Eibar vs R. Racing Club ",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "event": "Serie A",
+        "name": "22/02 - PARMA vs BOLOGNA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
         "description": "",
-        "homeTeam": "R. Racing Club",
-        "awayTeam": "SD Eibar",
+        "homeTeam": "BOLOGNA",
+        "awayTeam": "PARMA ",
         "schedules": [
             {
-                "start": "22 Feb 2025, 08:45 PM, IST",
-                "end": "22 Feb 2025, 11:45 PM, IST"
+                "start": "22 Feb 2025, 07:30 PM, IST",
+                "end": "22 Feb 2025, 10:30 PM, IST"
             }
         ]
     },
@@ -77,6 +60,23 @@
         "description": "",
         "homeTeam": "Villarreal CF",
         "awayTeam": "Rayo Vallecano",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 08:45 PM, IST",
+                "end": "22 Feb 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "cfe32f24-e4b0-4221-9591-e9d93c21f788",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "22/02 - SD Eibar vs R. Racing Club ",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "R. Racing Club",
+        "awayTeam": "SD Eibar",
         "schedules": [
             {
                 "start": "22 Feb 2025, 08:45 PM, IST",
