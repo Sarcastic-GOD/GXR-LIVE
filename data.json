@@ -172,23 +172,6 @@
         ]
     },
     {
-        "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "23/02 - UD Las Palmas vs FC Barcelona",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "FC Barcelona",
-        "awayTeam": "UD Las Palmas",
-        "schedules": [
-            {
-                "start": "23 Feb 2025, 01:30 AM, IST",
-                "end": "23 Feb 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -198,6 +181,23 @@
         "description": "",
         "homeTeam": "UD Almería",
         "awayTeam": "Real Sporting",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 01:30 AM, IST",
+                "end": "23 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "23/02 - UD Las Palmas vs FC Barcelona",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "UD Las Palmas",
         "schedules": [
             {
                 "start": "23 Feb 2025, 01:30 AM, IST",
