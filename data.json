@@ -232,16 +232,16 @@
         }
     },
     {
-        "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
+        "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
         "islive": true,
-        "event": "LaLiga",
-        "name": "23/02 - UD Las Palmas vs FC Barcelona",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/22/23-02_-UD-LAS-PALMAS-VS-BARCELONA-1--1740240400941.jpg",
+        "event": "La Liga Hypermotion",
+        "name": "23/02 - Real Sporting vs UD Almería",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
         "description": "",
-        "homeTeam": "FC Barcelona",
-        "awayTeam": "UD Las Palmas",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/1a281ba8-ec81-7644-8d29-3bdeee773c28/DASH/master.mpd?start=1740253470",
+        "homeTeam": "UD Almería",
+        "awayTeam": "Real Sporting",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/9966e967-2aa6-c839-475f-d2d5fc2065c8/DASH/master.mpd?start=1740253470",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -261,16 +261,16 @@
         }
     },
     {
-        "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
+        "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
         "islive": true,
-        "event": "La Liga Hypermotion",
-        "name": "23/02 - Real Sporting vs UD Almería",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "event": "LaLiga",
+        "name": "23/02 - UD Las Palmas vs FC Barcelona",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/22/23-02_-UD-LAS-PALMAS-VS-BARCELONA-1740254167558.jpg",
         "description": "",
-        "homeTeam": "UD Almería",
-        "awayTeam": "Real Sporting",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/9966e967-2aa6-c839-475f-d2d5fc2065c8/DASH/master.mpd?start=1740253470",
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "UD Las Palmas",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/1a281ba8-ec81-7644-8d29-3bdeee773c28/DASH/master.mpd?start=1740253470",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
