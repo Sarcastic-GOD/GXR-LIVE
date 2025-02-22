@@ -233,7 +233,7 @@
     },
     {
         "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
-        "islive": false,
+        "islive": true,
         "event": "La Liga Hypermotion",
         "name": "23/02 - Real Sporting vs UD Almería",
         "broadcaster": "La Liga Hypermotion",
@@ -241,16 +241,28 @@
         "description": "",
         "homeTeam": "UD Almería",
         "awayTeam": "Real Sporting",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/9966e967-2aa6-c839-475f-d2d5fc2065c8/DASH/master.mpd?start=1740253470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "23 Feb 2025, 01:30 AM, IST",
                 "end": "23 Feb 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "23/02 - UD Las Palmas vs FC Barcelona",
         "broadcaster": "LaLiga",
@@ -258,12 +270,24 @@
         "description": "",
         "homeTeam": "FC Barcelona",
         "awayTeam": "UD Las Palmas",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/1a281ba8-ec81-7644-8d29-3bdeee773c28/DASH/master.mpd?start=1740253470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "23 Feb 2025, 01:30 AM, IST",
                 "end": "23 Feb 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "6d0b57de-373a-4326-aac7-6bef2c28c182",
