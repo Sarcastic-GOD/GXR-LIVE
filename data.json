@@ -51,23 +51,6 @@
         ]
     },
     {
-        "id": "cfe32f24-e4b0-4221-9591-e9d93c21f788",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "22/02 - SD Eibar vs R. Racing Club ",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "R. Racing Club",
-        "awayTeam": "SD Eibar",
-        "schedules": [
-            {
-                "start": "22 Feb 2025, 08:45 PM, IST",
-                "end": "22 Feb 2025, 11:45 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "eef9e2d3-4350-4103-ac14-6bd48a711422",
         "islive": false,
         "event": "LaLiga",
@@ -77,6 +60,23 @@
         "description": "",
         "homeTeam": "Villarreal CF",
         "awayTeam": "Rayo Vallecano",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 08:45 PM, IST",
+                "end": "22 Feb 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "cfe32f24-e4b0-4221-9591-e9d93c21f788",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "22/02 - SD Eibar vs R. Racing Club ",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "R. Racing Club",
+        "awayTeam": "SD Eibar",
         "schedules": [
             {
                 "start": "22 Feb 2025, 08:45 PM, IST",
@@ -136,23 +136,6 @@
         ]
     },
     {
-        "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "23/02 - Real Sporting vs UD Almería",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "UD Almería",
-        "awayTeam": "Real Sporting",
-        "schedules": [
-            {
-                "start": "23 Feb 2025, 01:30 AM, IST",
-                "end": "23 Feb 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
         "islive": false,
         "event": "LaLiga",
@@ -162,6 +145,23 @@
         "description": "",
         "homeTeam": "FC Barcelona",
         "awayTeam": "UD Las Palmas",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 01:30 AM, IST",
+                "end": "23 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "23/02 - Real Sporting vs UD Almería",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "UD Almería",
+        "awayTeam": "Real Sporting",
         "schedules": [
             {
                 "start": "23 Feb 2025, 01:30 AM, IST",
