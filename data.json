@@ -179,11 +179,11 @@
         "event": "LaLiga",
         "name": "22/02 - Valencia CF vs Atlético de Madrid ",
         "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/22/22-02_-VALENCIA-VS-ATLETICO-MADRID-1740239338424.jpg",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/22/22-01_VALENCIA-VS-ATLETICO-MADRID-1740245172023.jpg",
         "description": "",
         "homeTeam": "Atlético de Madrid",
         "awayTeam": "Valencia CF ",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.vos360.video/Content/LiveEvent/969ed51a-3715-a2b5-1dc7-67c2eeb59903/DASH/master.mpd?start=1740244470",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/969ed51a-3715-a2b5-1dc7-67c2eeb59903/DASH/master.mpd?start=1740244470",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
