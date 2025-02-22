@@ -9,7 +9,7 @@
         "description": "",
         "homeTeam": "RCD Espanyol de Barcelona",
         "awayTeam": "Deportivo Alavés",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/ac5f4a1f-1de0-4661-fb16-fa54a6672060/DASH/master.mpd?start=1740228270",
+        "stream": "https://d2dux7dkqn7dzh.cloudfront.net/out/v1/8577ff52a48c494cbe1668e499d227cc/index.mpd",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
