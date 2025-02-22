@@ -17,23 +17,6 @@
         ]
     },
     {
-        "id": "0b17d849-a73f-4fa9-9a95-6f63af5ca913",
-        "islive": false,
-        "event": "Serie A",
-        "name": "22/02 - PARMA vs BOLOGNA",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "BOLOGNA",
-        "awayTeam": "PARMA ",
-        "schedules": [
-            {
-                "start": "22 Feb 2025, 07:30 PM, IST",
-                "end": "22 Feb 2025, 10:30 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "492ea013-c89a-4254-89da-856c32294a4d",
         "islive": false,
         "event": "Serie A",
@@ -43,6 +26,23 @@
         "description": "",
         "homeTeam": "LAZIO",
         "awayTeam": "VENEZIA",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 07:30 PM, IST",
+                "end": "22 Feb 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "0b17d849-a73f-4fa9-9a95-6f63af5ca913",
+        "islive": false,
+        "event": "Serie A",
+        "name": "22/02 - PARMA vs BOLOGNA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "BOLOGNA",
+        "awayTeam": "PARMA ",
         "schedules": [
             {
                 "start": "22 Feb 2025, 07:30 PM, IST",
