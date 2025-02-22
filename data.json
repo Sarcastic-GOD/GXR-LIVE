@@ -1,7 +1,7 @@
 [
     {
         "id": "62e2bbbb-089d-4c9b-8036-164ee5ca766e",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "22/02 - Deportivo Alavés vs Espanyol",
         "broadcaster": "LaLiga",
@@ -9,12 +9,24 @@
         "description": "",
         "homeTeam": "RCD Espanyol de Barcelona",
         "awayTeam": "Deportivo Alavés",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/ac5f4a1f-1de0-4661-fb16-fa54a6672060/DASH/master.mpd?start=1740228270",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "22 Feb 2025, 06:30 PM, IST",
                 "end": "22 Feb 2025, 09:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "0b17d849-a73f-4fa9-9a95-6f63af5ca913",
