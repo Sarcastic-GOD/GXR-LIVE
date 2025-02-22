@@ -1,1 +1,410 @@
-[]
+[
+    {
+        "id": "62e2bbbb-089d-4c9b-8036-164ee5ca766e",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "22/02 - Deportivo Alavés vs Espanyol",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RCD Espanyol de Barcelona",
+        "awayTeam": "Deportivo Alavés",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 06:30 PM, IST",
+                "end": "22 Feb 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "0b17d849-a73f-4fa9-9a95-6f63af5ca913",
+        "islive": false,
+        "event": "Serie A",
+        "name": "22/02 - PARMA vs BOLOGNA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "BOLOGNA",
+        "awayTeam": "PARMA ",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 07:30 PM, IST",
+                "end": "22 Feb 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "492ea013-c89a-4254-89da-856c32294a4d",
+        "islive": false,
+        "event": "Serie A",
+        "name": "22/02 - VENEZIA vs LAZIO",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "LAZIO",
+        "awayTeam": "VENEZIA",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 07:30 PM, IST",
+                "end": "22 Feb 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "eef9e2d3-4350-4103-ac14-6bd48a711422",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "22/02 - Rayo Vallecano vs Villarreal CF ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Villarreal CF",
+        "awayTeam": "Rayo Vallecano",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 08:45 PM, IST",
+                "end": "22 Feb 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "cfe32f24-e4b0-4221-9591-e9d93c21f788",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "22/02 - SD Eibar vs R. Racing Club ",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "R. Racing Club",
+        "awayTeam": "SD Eibar",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 08:45 PM, IST",
+                "end": "22 Feb 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "c6c4326d-9b8c-4e21-bcd1-693b4d2b2002",
+        "islive": false,
+        "event": "Serie A",
+        "name": "22/02 - TORINO vs MILAN",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "Milan",
+        "awayTeam": "TORINO ",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 10:30 PM, IST",
+                "end": "23 Feb 2025, 01:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "c73d4efc-8ab5-4791-950e-1a03665b132a",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "22/02 - Valencia CF vs Atlético de Madrid ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Atlético de Madrid",
+        "awayTeam": "Valencia CF ",
+        "schedules": [
+            {
+                "start": "22 Feb 2025, 11:00 PM, IST",
+                "end": "23 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "1f3e58dc-f51d-4f6f-b933-94037d647467",
+        "islive": false,
+        "event": "Serie A",
+        "name": "23/02 - INTER vs GENOA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "GENOA ",
+        "awayTeam": "INTER",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 01:15 AM, IST",
+                "end": "23 Feb 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "faeb984c-6f71-42fa-94a3-c0982ca32b44",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "23/02 - UD Las Palmas vs FC Barcelona",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "UD Las Palmas",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 01:30 AM, IST",
+                "end": "23 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "7e523d8c-cc96-4dec-8008-f0e448ef8c17",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "23/02 - Real Sporting vs UD Almería",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "UD Almería",
+        "awayTeam": "Real Sporting",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 01:30 AM, IST",
+                "end": "23 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "6d0b57de-373a-4326-aac7-6bef2c28c182",
+        "islive": false,
+        "event": "Serie A",
+        "name": "23/02 - COMO vs NAPOLI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "NAPOLI ",
+        "awayTeam": "COMO",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 05:00 PM, IST",
+                "end": "23 Feb 2025, 08:00 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "2927b135-9072-4733-aafd-2de5318527fd",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "23/02 - Athletic Club vs Real Valladolid CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Valladolid CF",
+        "awayTeam": "Athletic Club",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 06:30 PM, IST",
+                "end": "23 Feb 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "a01ce206-797f-43d4-8083-7166a62b1dd2",
+        "islive": false,
+        "event": "Serie A",
+        "name": "23/02 - HELLAS VERONA vs FIORENTINA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "Fiorentina",
+        "awayTeam": "HELLAS VERONA",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 07:30 PM, IST",
+                "end": "23 Feb 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "f2b37dc0-21b0-4aa7-9112-b81a1a813213",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "23/02 - Real Madrid vs Girona FC ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Girona FC",
+        "awayTeam": "Real Madrid",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 08:45 PM, IST",
+                "end": "23 Feb 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "cd56077a-6a8c-4681-98e3-3507cf7b1812",
+        "islive": false,
+        "event": "Serie A",
+        "name": "23/02 - EMPOLI vs ATALANTA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "ATALANTA",
+        "awayTeam": "EMPOLI ",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 10:30 PM, IST",
+                "end": "24 Feb 2025, 01:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "2b705677-5c2a-4caa-8f4f-e077a96df804",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "23/02 - Getafe CF vs Real Betis ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Betis",
+        "awayTeam": "Getafe CF",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 11:00 PM, IST",
+                "end": "24 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "f00d77af-03e3-41ef-87e9-13ef53f84b36",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "23/02 - Levante UD vs CD Mirandés",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "CD Mirandés",
+        "awayTeam": "Levante UD",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 11:00 PM, IST",
+                "end": "24 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "3da15c63-b47f-4408-b00c-7f5800c5d116",
+        "islive": false,
+        "event": "Serie A",
+        "name": "24/02 - CAGLIARI vs JUVENTUS",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "JUVENTUS",
+        "awayTeam": "CAGLIARI ",
+        "schedules": [
+            {
+                "start": "24 Feb 2025, 01:15 AM, IST",
+                "end": "24 Feb 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "2f5a5b38-9b78-4d4a-a2e1-cc754635c7a8",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "24/02 - Real Sociedad vs CD Leganés ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "CD Leganés",
+        "awayTeam": "Real Sociedad",
+        "schedules": [
+            {
+                "start": "24 Feb 2025, 01:30 AM, IST",
+                "end": "24 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "d1a61376-c552-4151-b728-c08025650fd0",
+        "islive": false,
+        "event": "Serie A",
+        "name": "25/02 - ROMA vs MONZA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "MONZA",
+        "awayTeam": "ROMA",
+        "schedules": [
+            {
+                "start": "25 Feb 2025, 01:15 AM, IST",
+                "end": "25 Feb 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "3756e705-f1f9-493c-ae76-9637c9ec9fc1",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "25/02 - Sevilla FC  vs RCD Mallorca ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RCD Mallorca",
+        "awayTeam": "Sevilla FC",
+        "schedules": [
+            {
+                "start": "25 Feb 2025, 01:30 AM, IST",
+                "end": "25 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "49c95846-eecc-42fc-a68b-d8c4eac5eeb9",
+        "islive": false,
+        "event": "Coppa Italia",
+        "name": "INTER vs LAZIO",
+        "broadcaster": "Coppa Italia",
+        "logo": "https://gxr.asset.viewlift.com/images/2024/08/09/GXR-Cards-thumbnail-169-1920-1080-1723204463285.jpg",
+        "description": "",
+        "homeTeam": "LAZIO",
+        "awayTeam": "INTER",
+        "schedules": [
+            {
+                "start": "26 Feb 2025, 01:30 AM, IST",
+                "end": "26 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "93365798-b42a-4aac-8ef9-c0d724a71641",
+        "islive": false,
+        "event": "Coppa Italia",
+        "name": "JUVENTUS vs EMPOLI",
+        "broadcaster": "Coppa Italia",
+        "logo": "https://gxr.asset.viewlift.com/images/2024/08/09/GXR-Cards-thumbnail-169-1920-1080-1723204463285.jpg",
+        "description": "",
+        "homeTeam": "EMPOLI ",
+        "awayTeam": "JUVENTUS",
+        "schedules": [
+            {
+                "start": "27 Feb 2025, 01:30 AM, IST",
+                "end": "27 Feb 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "0353c072-ee40-42ba-abcf-455c449b2fa9",
+        "islive": false,
+        "event": "Serie A",
+        "name": "28/02 - BOLOGNA vs MILAN",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "Milan",
+        "awayTeam": "BOLOGNA",
+        "schedules": [
+            {
+                "start": "28 Feb 2025, 01:15 AM, IST",
+                "end": "28 Feb 2025, 04:15 AM, IST"
+            }
+        ]
+    }
+]
