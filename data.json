@@ -59,7 +59,7 @@
     },
     {
         "id": "a01ce206-797f-43d4-8083-7166a62b1dd2",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "23/02 - HELLAS VERONA vs FIORENTINA",
         "broadcaster": "Serie A",
@@ -67,12 +67,24 @@
         "description": "",
         "homeTeam": "Fiorentina",
         "awayTeam": "HELLAS VERONA",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/5de80826-ec5b-fe24-71ad-e64cc08c3fc8/DASH/master.mpd?start=1740318270",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "23 Feb 2025, 07:30 PM, IST",
                 "end": "23 Feb 2025, 10:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "f2b37dc0-21b0-4aa7-9112-b81a1a813213",
@@ -80,7 +92,7 @@
         "event": "LaLiga",
         "name": "23/02 - Real Madrid vs Girona FC ",
         "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/23/23-02_REAL-MADRID-VS-GIRONA-FC-1740317716935.jpg",
         "description": "",
         "homeTeam": "Girona FC",
         "awayTeam": "Real Madrid",
