@@ -125,7 +125,7 @@
         "description": "",
         "homeTeam": "ATALANTA",
         "awayTeam": "EMPOLI ",
-        "stream": "match has not started yet",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/40a88473-a0be-e565-dec1-54497485a6d6/DASH/master.mpd?start=1740329070",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
