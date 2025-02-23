@@ -30,7 +30,7 @@
     },
     {
         "id": "2927b135-9072-4733-aafd-2de5318527fd",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "23/02 - Athletic Club vs Real Valladolid CF",
         "broadcaster": "LaLiga",
@@ -38,12 +38,24 @@
         "description": "",
         "homeTeam": "Real Valladolid CF",
         "awayTeam": "Athletic Club",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/6ef81035-2457-2276-3dcd-fa80ae2126db/DASH/master.mpd?start=1740314670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "23 Feb 2025, 06:30 PM, IST",
                 "end": "23 Feb 2025, 09:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "a01ce206-797f-43d4-8083-7166a62b1dd2",
@@ -97,23 +109,6 @@
         ]
     },
     {
-        "id": "2b705677-5c2a-4caa-8f4f-e077a96df804",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "23/02 - Getafe CF vs Real Betis ",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Real Betis",
-        "awayTeam": "Getafe CF",
-        "schedules": [
-            {
-                "start": "23 Feb 2025, 11:00 PM, IST",
-                "end": "24 Feb 2025, 02:00 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "f00d77af-03e3-41ef-87e9-13ef53f84b36",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -123,6 +118,23 @@
         "description": "",
         "homeTeam": "CD Mirandés",
         "awayTeam": "Levante UD",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 11:00 PM, IST",
+                "end": "24 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "2b705677-5c2a-4caa-8f4f-e077a96df804",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "23/02 - Getafe CF vs Real Betis ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Betis",
+        "awayTeam": "Getafe CF",
         "schedules": [
             {
                 "start": "23 Feb 2025, 11:00 PM, IST",
