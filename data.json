@@ -88,7 +88,7 @@
     },
     {
         "id": "f2b37dc0-21b0-4aa7-9112-b81a1a813213",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "23/02 - Real Madrid vs Girona FC ",
         "broadcaster": "LaLiga",
@@ -96,12 +96,24 @@
         "description": "",
         "homeTeam": "Girona FC",
         "awayTeam": "Real Madrid",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/65d65ec8-456c-edd6-5983-87f6d33c4952/DASH/master.mpd?start=1740322770",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "23 Feb 2025, 08:45 PM, IST",
                 "end": "23 Feb 2025, 11:45 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "cd56077a-6a8c-4681-98e3-3507cf7b1812",
@@ -121,23 +133,6 @@
         ]
     },
     {
-        "id": "f00d77af-03e3-41ef-87e9-13ef53f84b36",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "23/02 - Levante UD vs CD Mirandés",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "CD Mirandés",
-        "awayTeam": "Levante UD",
-        "schedules": [
-            {
-                "start": "23 Feb 2025, 11:00 PM, IST",
-                "end": "24 Feb 2025, 02:00 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "2b705677-5c2a-4caa-8f4f-e077a96df804",
         "islive": false,
         "event": "LaLiga",
@@ -147,6 +142,23 @@
         "description": "",
         "homeTeam": "Real Betis",
         "awayTeam": "Getafe CF",
+        "schedules": [
+            {
+                "start": "23 Feb 2025, 11:00 PM, IST",
+                "end": "24 Feb 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "f00d77af-03e3-41ef-87e9-13ef53f84b36",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "23/02 - Levante UD vs CD Mirandés",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "CD Mirandés",
+        "awayTeam": "Levante UD",
         "schedules": [
             {
                 "start": "23 Feb 2025, 11:00 PM, IST",
