@@ -1,7 +1,7 @@
 [
     {
         "id": "93365798-b42a-4aac-8ef9-c0d724a71641",
-        "islive": false,
+        "islive": true,
         "event": "Coppa Italia",
         "name": "27/2 - JUVENTUS vs EMPOLI",
         "broadcaster": "Coppa Italia",
@@ -9,12 +9,24 @@
         "description": "",
         "homeTeam": "EMPOLI ",
         "awayTeam": "JUVENTUS",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/ff6b75e8-94e9-fdbe-980e-7ecc5a436487/DASH/master.mpd?start=1740599070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "27 Feb 2025, 01:30 AM, IST",
                 "end": "27 Feb 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "0353c072-ee40-42ba-abcf-455c449b2fa9",
