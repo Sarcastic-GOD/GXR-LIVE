@@ -51,23 +51,6 @@
         ]
     },
     {
-        "id": "7f4270bf-6f52-4383-8ae2-2a88d35df7ea",
-        "islive": false,
-        "event": "Serie A",
-        "name": "01/03 - NAPOLI vs INTER",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "INTER",
-        "awayTeam": "NAPOLI ",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 05:30 AM, IST",
-                "end": "01 Mar 2025, 08:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "091f91a7-fab9-439a-9dee-7b3ecbcc340e",
         "islive": false,
         "event": "Serie A",
@@ -94,6 +77,23 @@
         "description": "",
         "homeTeam": "VENEZIA",
         "awayTeam": "ATALANTA",
+        "schedules": [
+            {
+                "start": "01 Mar 2025, 05:30 AM, IST",
+                "end": "01 Mar 2025, 08:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "7f4270bf-6f52-4383-8ae2-2a88d35df7ea",
+        "islive": false,
+        "event": "Serie A",
+        "name": "01/03 - NAPOLI vs INTER",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "INTER",
+        "awayTeam": "NAPOLI ",
         "schedules": [
             {
                 "start": "01 Mar 2025, 05:30 AM, IST",
