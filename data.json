@@ -136,23 +136,6 @@
         ]
     },
     {
-        "id": "cb0eff94-70b1-4dc6-8516-443d1c1212b1",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "01/03 - Real Zaragoza vs Real Sporting",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "Real Sporting",
-        "awayTeam": "Real Zaragoza",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 11:00 PM, IST",
-                "end": "02 Mar 2025, 02:00 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "25874fb7-f74f-4e51-b5ad-98c35440128f",
         "islive": false,
         "event": "LaLiga",
@@ -162,6 +145,23 @@
         "description": "",
         "homeTeam": "Real Madrid",
         "awayTeam": "Real Betis",
+        "schedules": [
+            {
+                "start": "01 Mar 2025, 11:00 PM, IST",
+                "end": "02 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "cb0eff94-70b1-4dc6-8516-443d1c1212b1",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "01/03 - Real Zaragoza vs Real Sporting",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "Real Sporting",
+        "awayTeam": "Real Zaragoza",
         "schedules": [
             {
                 "start": "01 Mar 2025, 11:00 PM, IST",
