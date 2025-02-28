@@ -1,34 +1,5 @@
 [
     {
-        "id": "0353c072-ee40-42ba-abcf-455c449b2fa9",
-        "islive": true,
-        "event": "Serie A",
-        "name": "28/02 - BOLOGNA vs MILAN",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "Milan",
-        "awayTeam": "BOLOGNA",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/517f3a1e-f341-68e0-ae61-2c2b83ee8594/DASH/master.mpd?start=1740684570",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "28 Feb 2025, 01:15 AM, IST",
-                "end": "28 Feb 2025, 04:15 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
         "id": "88ac34ce-99d7-4254-a628-c1f93869e7c8",
         "islive": false,
         "event": "La Liga Hypermotion",
