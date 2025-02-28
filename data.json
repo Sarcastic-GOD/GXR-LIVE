@@ -17,6 +17,23 @@
         ]
     },
     {
+        "id": "091f91a7-fab9-439a-9dee-7b3ecbcc340e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "01/03 - FIORENTINA vs LECCE",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "LECCE ",
+        "awayTeam": "Fiorentina",
+        "schedules": [
+            {
+                "start": "01 Mar 2025, 01:15 AM, IST",
+                "end": "01 Mar 2025, 05:14 AM, IST"
+            }
+        ]
+    },
+    {
         "id": "6a623120-92f9-4b5d-b1a9-e1501cf768ba",
         "islive": false,
         "event": "LaLiga",
@@ -30,23 +47,6 @@
             {
                 "start": "01 Mar 2025, 01:30 AM, IST",
                 "end": "01 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
-        "id": "091f91a7-fab9-439a-9dee-7b3ecbcc340e",
-        "islive": false,
-        "event": "Serie A",
-        "name": "01/03 - FIORENTINA vs LECCE",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "LECCE ",
-        "awayTeam": "Fiorentina",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 05:30 AM, IST",
-                "end": "01 Mar 2025, 08:30 AM, IST"
             }
         ]
     },
