@@ -1,92 +1,5 @@
 [
     {
-        "id": "88ac34ce-99d7-4254-a628-c1f93869e7c8",
-        "islive": true,
-        "event": "La Liga Hypermotion",
-        "name": "01/03 - FC Cartagena vs SD Eibar",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "SD Eibar",
-        "awayTeam": "FC Cartagena",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/6057ac0d-e5b2-fbc7-937b-1cc9a348180e/DASH/master.mpd?start=1740770070",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 01:00 AM, IST",
-                "end": "01 Mar 2025, 04:00 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "091f91a7-fab9-439a-9dee-7b3ecbcc340e",
-        "islive": true,
-        "event": "Serie A",
-        "name": "01/03 - FIORENTINA vs LECCE",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "LECCE ",
-        "awayTeam": "Fiorentina",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/7afbf415-404e-a8de-ef6d-469a2302e216/DASH/master.mpd?start=1740770970",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 01:15 AM, IST",
-                "end": "01 Mar 2025, 05:14 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "6a623120-92f9-4b5d-b1a9-e1501cf768ba",
-        "islive": true,
-        "event": "LaLiga",
-        "name": "01/03 - Real Valladolid CF vs UD Las Palmas",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "UD Las Palmas",
-        "awayTeam": "Real Valladolid CF",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/e00b9994-d916-a92a-d121-354e34aa0287/DASH/master.mpd?start=1740771870",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 01:30 AM, IST",
-                "end": "01 Mar 2025, 04:30 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
         "id": "962597c2-7d84-4057-a476-0ac347e8230e",
         "islive": true,
         "event": "Serie A",
@@ -179,23 +92,6 @@
         ]
     },
     {
-        "id": "25874fb7-f74f-4e51-b5ad-98c35440128f",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "01/03 - Real Betis vs Real Madrid",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Real Madrid",
-        "awayTeam": "Real Betis",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 11:00 PM, IST",
-                "end": "02 Mar 2025, 02:00 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "cb0eff94-70b1-4dc6-8516-443d1c1212b1",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -205,6 +101,23 @@
         "description": "",
         "homeTeam": "Real Sporting",
         "awayTeam": "Real Zaragoza",
+        "schedules": [
+            {
+                "start": "01 Mar 2025, 11:00 PM, IST",
+                "end": "02 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "25874fb7-f74f-4e51-b5ad-98c35440128f",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "01/03 - Real Betis vs Real Madrid",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Real Betis",
         "schedules": [
             {
                 "start": "01 Mar 2025, 11:00 PM, IST",
@@ -366,23 +279,6 @@
         ]
     },
     {
-        "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "03/03 - CA Osasuna vs Valencia CF",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Valencia CF ",
-        "awayTeam": "CA Osasuna",
-        "schedules": [
-            {
-                "start": "03 Mar 2025, 01:30 AM, IST",
-                "end": "03 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -392,6 +288,23 @@
         "description": "",
         "homeTeam": "Elche CF",
         "awayTeam": "R. Racing Club",
+        "schedules": [
+            {
+                "start": "03 Mar 2025, 01:30 AM, IST",
+                "end": "03 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "03/03 - CA Osasuna vs Valencia CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Valencia CF ",
+        "awayTeam": "CA Osasuna",
         "schedules": [
             {
                 "start": "03 Mar 2025, 01:30 AM, IST",
