@@ -1,7 +1,7 @@
 [
     {
         "id": "7c29bc97-8dd9-4179-9cb3-12c44ef5468a",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "01/03 - Girona FC vs RC Celta",
         "broadcaster": "LaLiga",
@@ -9,12 +9,24 @@
         "description": "",
         "homeTeam": "RC Celta",
         "awayTeam": "Girona FC",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/d0c24247-563d-22c1-32bf-fedcc3d05f43/DASH/master.mpd?start=1740833070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "01 Mar 2025, 06:30 PM, IST",
                 "end": "01 Mar 2025, 09:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "962597c2-7d84-4057-a476-0ac347e8230e",
