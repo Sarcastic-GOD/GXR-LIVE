@@ -116,16 +116,16 @@
         }
     },
     {
-        "id": "25874fb7-f74f-4e51-b5ad-98c35440128f",
+        "id": "cb0eff94-70b1-4dc6-8516-443d1c1212b1",
         "islive": true,
-        "event": "LaLiga",
-        "name": "01/03 - Real Betis vs Real Madrid",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/03/01/01-03_REAL-BETIS-VS-REAL-MADRID-1740839261173.jpg",
+        "event": "La Liga Hypermotion",
+        "name": "01/03 - Real Zaragoza vs Real Sporting",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
         "description": "",
-        "homeTeam": "Real Madrid",
-        "awayTeam": "Real Betis",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/8c135158-910b-619e-f98b-e4fa4fdc0dea/DASH/master.mpd?start=1740849270",
+        "homeTeam": "Real Sporting",
+        "awayTeam": "Real Zaragoza",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/7dad69af-a22c-8af5-4cb6-4d70f4b7234d/DASH/master.mpd?start=1740849270",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -145,16 +145,16 @@
         }
     },
     {
-        "id": "cb0eff94-70b1-4dc6-8516-443d1c1212b1",
+        "id": "25874fb7-f74f-4e51-b5ad-98c35440128f",
         "islive": true,
-        "event": "La Liga Hypermotion",
-        "name": "01/03 - Real Zaragoza vs Real Sporting",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "event": "LaLiga",
+        "name": "01/03 - Real Betis vs Real Madrid",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/03/01/01-03_REAL-BETIS-VS-REAL-MADRID-1--1740850019876.jpg",
         "description": "",
-        "homeTeam": "Real Sporting",
-        "awayTeam": "Real Zaragoza",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/7dad69af-a22c-8af5-4cb6-4d70f4b7234d/DASH/master.mpd?start=1740849270",
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Real Betis",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/8c135158-910b-619e-f98b-e4fa4fdc0dea/DASH/master.mpd?start=1740849270",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
@@ -327,23 +327,6 @@
         ]
     },
     {
-        "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "03/03 - CA Osasuna vs Valencia CF",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Valencia CF ",
-        "awayTeam": "CA Osasuna",
-        "schedules": [
-            {
-                "start": "03 Mar 2025, 01:30 AM, IST",
-                "end": "03 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -353,6 +336,23 @@
         "description": "",
         "homeTeam": "Elche CF",
         "awayTeam": "R. Racing Club",
+        "schedules": [
+            {
+                "start": "03 Mar 2025, 01:30 AM, IST",
+                "end": "03 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "03/03 - CA Osasuna vs Valencia CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Valencia CF ",
+        "awayTeam": "CA Osasuna",
         "schedules": [
             {
                 "start": "03 Mar 2025, 01:30 AM, IST",
