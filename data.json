@@ -204,7 +204,7 @@
     },
     {
         "id": "97ebb3cb-0a08-4a96-87e6-a4bb669e3331",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "02/03 - RCD Mallorca  vs Deportivo Alavés",
         "broadcaster": "LaLiga",
@@ -212,12 +212,24 @@
         "description": "",
         "homeTeam": "Deportivo Alavés",
         "awayTeam": "RCD Mallorca",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/c712ef0c-d80d-0646-0d7c-13646c50bed5/DASH/master.mpd?start=1740935670",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "02 Mar 2025, 11:00 PM, IST",
                 "end": "03 Mar 2025, 02:00 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "e3909fb7-d752-4a16-abd7-c4174698e6c3",
