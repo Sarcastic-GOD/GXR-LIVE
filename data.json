@@ -233,7 +233,7 @@
     },
     {
         "id": "e3909fb7-d752-4a16-abd7-c4174698e6c3",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "03/03 - MILAN vs LAZIO",
         "broadcaster": "Serie A",
@@ -241,12 +241,24 @@
         "description": "",
         "homeTeam": "LAZIO",
         "awayTeam": "Milan",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/fd2d6c75-70ac-e84e-766e-da6c537c62a3/DASH/master.mpd?start=1740943770",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "03 Mar 2025, 01:15 AM, IST",
                 "end": "03 Mar 2025, 04:15 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
