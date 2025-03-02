@@ -196,23 +196,6 @@
         ]
     },
     {
-        "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "03/03 - R. Racing Club vs Elche CF",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "Elche CF",
-        "awayTeam": "R. Racing Club",
-        "schedules": [
-            {
-                "start": "03 Mar 2025, 01:30 AM, IST",
-                "end": "03 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
         "islive": false,
         "event": "LaLiga",
@@ -222,6 +205,23 @@
         "description": "",
         "homeTeam": "Valencia CF ",
         "awayTeam": "CA Osasuna",
+        "schedules": [
+            {
+                "start": "03 Mar 2025, 01:30 AM, IST",
+                "end": "03 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "03/03 - R. Racing Club vs Elche CF",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "Elche CF",
+        "awayTeam": "R. Racing Club",
         "schedules": [
             {
                 "start": "03 Mar 2025, 01:30 AM, IST",
