@@ -88,7 +88,7 @@
     },
     {
         "id": "71210ad5-eb08-44dc-aae9-550d5203ad07",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "02/03 - BOLOGNA vs CAGLIARI",
         "broadcaster": "Serie A",
@@ -96,16 +96,28 @@
         "description": "",
         "homeTeam": "CAGLIARI ",
         "awayTeam": "BOLOGNA",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/c66b9108-a7b6-4b82-57ec-ccacdbaae381/DASH/master.mpd?start=1740923070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "02 Mar 2025, 07:30 PM, IST",
                 "end": "02 Mar 2025, 10:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "d107fc90-52ec-4657-bd65-31b14727d25b",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "02/03 - GENOA vs EMPOLI",
         "broadcaster": "Serie A",
@@ -113,12 +125,24 @@
         "description": "",
         "homeTeam": "EMPOLI ",
         "awayTeam": "GENOA ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/d560325f-0147-916b-055c-6370817385e3/DASH/master.mpd?start=1740923070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "02 Mar 2025, 07:30 PM, IST",
                 "end": "02 Mar 2025, 10:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "628e1822-669f-4131-ac4f-1e42db2df4fb",
