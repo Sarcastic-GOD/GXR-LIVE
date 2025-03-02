@@ -148,6 +148,23 @@
         ]
     },
     {
+        "id": "e3909fb7-d752-4a16-abd7-c4174698e6c3",
+        "islive": false,
+        "event": "Serie A",
+        "name": "03/03 - MILAN vs LAZIO",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "LAZIO",
+        "awayTeam": "Milan",
+        "schedules": [
+            {
+                "start": "03 Mar 2025, 01:15 AM, IST",
+                "end": "03 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
         "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -178,23 +195,6 @@
             {
                 "start": "03 Mar 2025, 01:30 AM, IST",
                 "end": "03 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
-        "id": "e3909fb7-d752-4a16-abd7-c4174698e6c3",
-        "islive": false,
-        "event": "Serie A",
-        "name": "03/03 - MILAN vs LAZIO",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "LAZIO",
-        "awayTeam": "Milan",
-        "schedules": [
-            {
-                "start": "03 Mar 2025, 05:30 AM, IST",
-                "end": "03 Mar 2025, 08:30 AM, IST"
             }
         ]
     },
