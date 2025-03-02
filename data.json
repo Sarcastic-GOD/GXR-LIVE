@@ -29,35 +29,6 @@
         }
     },
     {
-        "id": "71210ad5-eb08-44dc-aae9-550d5203ad07",
-        "islive": true,
-        "event": "Serie A",
-        "name": "02/03 - BOLOGNA vs CAGLIARI",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "CAGLIARI ",
-        "awayTeam": "BOLOGNA",
-        "stream": "match has not started yet",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "02 Mar 2025, 05:30 AM, IST",
-                "end": "02 Mar 2025, 08:30 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
         "id": "d107fc90-52ec-4657-bd65-31b14727d25b",
         "islive": true,
         "event": "Serie A",
@@ -150,6 +121,23 @@
         ]
     },
     {
+        "id": "71210ad5-eb08-44dc-aae9-550d5203ad07",
+        "islive": false,
+        "event": "Serie A",
+        "name": "02/03 - BOLOGNA vs CAGLIARI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "CAGLIARI ",
+        "awayTeam": "BOLOGNA",
+        "schedules": [
+            {
+                "start": "02 Mar 2025, 07:30 PM, IST",
+                "end": "02 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
         "id": "628e1822-669f-4131-ac4f-1e42db2df4fb",
         "islive": false,
         "event": "LaLiga",
@@ -184,23 +172,6 @@
         ]
     },
     {
-        "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "03/03 - CA Osasuna vs Valencia CF",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Valencia CF ",
-        "awayTeam": "CA Osasuna",
-        "schedules": [
-            {
-                "start": "03 Mar 2025, 01:30 AM, IST",
-                "end": "03 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -210,6 +181,23 @@
         "description": "",
         "homeTeam": "Elche CF",
         "awayTeam": "R. Racing Club",
+        "schedules": [
+            {
+                "start": "03 Mar 2025, 01:30 AM, IST",
+                "end": "03 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "03/03 - CA Osasuna vs Valencia CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Valencia CF ",
+        "awayTeam": "CA Osasuna",
         "schedules": [
             {
                 "start": "03 Mar 2025, 01:30 AM, IST",
