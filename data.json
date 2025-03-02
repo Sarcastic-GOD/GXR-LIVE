@@ -146,7 +146,7 @@
     },
     {
         "id": "628e1822-669f-4131-ac4f-1e42db2df4fb",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "02/03 - FC Barcelona vs Real Sociedad",
         "broadcaster": "LaLiga",
@@ -154,12 +154,24 @@
         "description": "",
         "homeTeam": "Real Sociedad",
         "awayTeam": "FC Barcelona",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/36ee9666-ca2b-43a6-c753-c932733d64eb/DASH/master.mpd?start=1740927570",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "02 Mar 2025, 08:45 PM, IST",
                 "end": "02 Mar 2025, 11:45 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "ec4585be-04d3-4394-a8fb-33e2e5f89ef1",
