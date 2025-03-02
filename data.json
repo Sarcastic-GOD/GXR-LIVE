@@ -1,34 +1,5 @@
 [
     {
-        "id": "7c29bc97-8dd9-4179-9cb3-12c44ef5468a",
-        "islive": true,
-        "event": "LaLiga",
-        "name": "01/03 - Girona FC vs RC Celta",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "RC Celta",
-        "awayTeam": "Girona FC",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/d0c24247-563d-22c1-32bf-fedcc3d05f43/DASH/master.mpd?start=1740833070",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 06:30 PM, IST",
-                "end": "01 Mar 2025, 09:30 PM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
         "id": "962597c2-7d84-4057-a476-0ac347e8230e",
         "islive": true,
         "event": "Serie A",
@@ -44,180 +15,6 @@
             {
                 "start": "01 Mar 2025, 07:30 PM, IST",
                 "end": "02 Mar 2025, 09:30 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "45043d30-e0a1-4501-b18a-8633739e082b",
-        "islive": true,
-        "event": "LaLiga",
-        "name": "01/03 - Rayo Vallecano vs Sevilla FC",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Sevilla FC",
-        "awayTeam": "Rayo Vallecano",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/de0b9b19-17aa-ca40-54e3-403aff954c41/DASH/master.mpd?start=1740841170",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 08:45 PM, IST",
-                "end": "01 Mar 2025, 11:45 PM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "7f4270bf-6f52-4383-8ae2-2a88d35df7ea",
-        "islive": true,
-        "event": "Serie A",
-        "name": "01/03 - NAPOLI vs INTER",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "INTER",
-        "awayTeam": "NAPOLI ",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/e44226c8-9856-c934-1521-4bdf3f5c7053/DASH/master.mpd?start=1740847470",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 10:30 PM, IST",
-                "end": "02 Mar 2025, 01:30 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "25874fb7-f74f-4e51-b5ad-98c35440128f",
-        "islive": true,
-        "event": "LaLiga",
-        "name": "01/03 - Real Betis vs Real Madrid",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/03/01/01-03_REAL-BETIS-VS-REAL-MADRID-1--1740850019876.jpg",
-        "description": "",
-        "homeTeam": "Real Madrid",
-        "awayTeam": "Real Betis",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/8c135158-910b-619e-f98b-e4fa4fdc0dea/DASH/master.mpd?start=1740849270",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 11:00 PM, IST",
-                "end": "02 Mar 2025, 02:00 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "cb0eff94-70b1-4dc6-8516-443d1c1212b1",
-        "islive": true,
-        "event": "La Liga Hypermotion",
-        "name": "01/03 - Real Zaragoza vs Real Sporting",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "Real Sporting",
-        "awayTeam": "Real Zaragoza",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/7dad69af-a22c-8af5-4cb6-4d70f4b7234d/DASH/master.mpd?start=1740849270",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "01 Mar 2025, 11:00 PM, IST",
-                "end": "02 Mar 2025, 02:00 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "396551ee-cd02-47f6-9223-2f47eb450681",
-        "islive": true,
-        "event": "Serie A",
-        "name": "02/03 - UDINESE vs PARMA",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "PARMA ",
-        "awayTeam": "UDINESE ",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/638dc170-744c-9945-d333-91be53b28a79/DASH/master.mpd?start=1740857370",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "02 Mar 2025, 01:15 AM, IST",
-                "end": "02 Mar 2025, 04:15 AM, IST"
-            }
-        ],
-        "base64": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
-                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
-                }
-            ],
-            "type": "temporary"
-        }
-    },
-    {
-        "id": "3de43973-8859-4e67-97e4-83ff569e5eb0",
-        "islive": true,
-        "event": "LaLiga",
-        "name": "02/03 - Atlético de Madrid vs Athletic Club",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/03/01/02-03_ATLETICO-MADRID-VS-ATHLETIC-CLUB-1--1740858409892.jpg",
-        "description": "",
-        "homeTeam": "Athletic Club",
-        "awayTeam": "Atlético de Madrid",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/68a13412-1403-bd57-20b7-8ae00f75e8d2/DASH/master.mpd?start=1740858270",
-        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
-        "schedules": [
-            {
-                "start": "02 Mar 2025, 01:30 AM, IST",
-                "end": "02 Mar 2025, 04:30 AM, IST"
             }
         ],
         "base64": {
@@ -399,23 +196,6 @@
         ]
     },
     {
-        "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "03/03 - R. Racing Club vs Elche CF",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "Elche CF",
-        "awayTeam": "R. Racing Club",
-        "schedules": [
-            {
-                "start": "03 Mar 2025, 01:30 AM, IST",
-                "end": "03 Mar 2025, 04:30 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "26a31cf2-d842-4665-8697-6e455fd94b62",
         "islive": false,
         "event": "LaLiga",
@@ -425,6 +205,23 @@
         "description": "",
         "homeTeam": "Valencia CF ",
         "awayTeam": "CA Osasuna",
+        "schedules": [
+            {
+                "start": "03 Mar 2025, 01:30 AM, IST",
+                "end": "03 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "3697bcc0-d9b7-411f-89d7-fe730341750c",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "03/03 - R. Racing Club vs Elche CF",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "Elche CF",
+        "awayTeam": "R. Racing Club",
         "schedules": [
             {
                 "start": "03 Mar 2025, 01:30 AM, IST",
