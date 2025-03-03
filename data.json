@@ -67,7 +67,7 @@
         "description": "",
         "homeTeam": "RCD Espanyol de Barcelona",
         "awayTeam": "Villarreal CF",
-        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/6cb748d8-2861-4db0-b1cd-1dc00958be58/DASH/master.mpd?start=1741031070",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/6cb748d8-2861-4db0-b1cd-1dc00958be58/DASH/master.mpd",
         "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
