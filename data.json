@@ -1,7 +1,7 @@
 [
     {
         "id": "6b84a09c-9567-4b67-988d-f80b1dfa9f97",
-        "islive": false,
+        "islive": true,
         "event": "La Liga Hypermotion",
         "name": "04/03 - CD Mirandés vs CD Tenerife",
         "broadcaster": "La Liga Hypermotion",
@@ -9,12 +9,24 @@
         "description": "",
         "homeTeam": "CD Tenerife",
         "awayTeam": "CD Mirandés",
+        "stream": "match has not started yet",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "04 Mar 2025, 01:00 AM, IST",
                 "end": "04 Mar 2025, 04:00 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "15182e41-2c36-4203-80ca-7a6b8774a586",
