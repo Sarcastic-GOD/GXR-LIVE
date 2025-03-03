@@ -1,1 +1,53 @@
-[]
+[
+    {
+        "id": "6b84a09c-9567-4b67-988d-f80b1dfa9f97",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "04/03 - CD Mirandés vs CD Tenerife",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "CD Tenerife",
+        "awayTeam": "CD Mirandés",
+        "schedules": [
+            {
+                "start": "04 Mar 2025, 01:00 AM, IST",
+                "end": "04 Mar 2025, 04:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "15182e41-2c36-4203-80ca-7a6b8774a586",
+        "islive": false,
+        "event": "Serie A",
+        "name": "04/03 - JUVENTUS vs HELLAS VERONA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "HELLAS VERONA",
+        "awayTeam": "JUVENTUS",
+        "schedules": [
+            {
+                "start": "04 Mar 2025, 01:15 AM, IST",
+                "end": "04 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "89891df0-7c2f-43cb-91eb-4210f963f4ad",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "04/03 - Villarreal CF vs Espanyol",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RCD Espanyol de Barcelona",
+        "awayTeam": "Villarreal CF",
+        "schedules": [
+            {
+                "start": "04 Mar 2025, 01:30 AM, IST",
+                "end": "04 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    }
+]
