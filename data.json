@@ -59,7 +59,7 @@
     },
     {
         "id": "89891df0-7c2f-43cb-91eb-4210f963f4ad",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "04/03 - Villarreal CF vs Espanyol",
         "broadcaster": "LaLiga",
@@ -67,11 +67,23 @@
         "description": "",
         "homeTeam": "RCD Espanyol de Barcelona",
         "awayTeam": "Villarreal CF",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/6cb748d8-2861-4db0-b1cd-1dc00958be58/DASH/master.mpd?start=1741031070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "04 Mar 2025, 01:30 AM, IST",
                 "end": "04 Mar 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     }
 ]
