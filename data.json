@@ -17,23 +17,6 @@
         ]
     },
     {
-        "id": "b56b2930-46a6-489b-81ec-f981de2a2b5e",
-        "islive": false,
-        "event": "Serie A",
-        "name": "08/03 - COMO vs VENEZIA",
-        "broadcaster": "Serie A",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
-        "description": "",
-        "homeTeam": "VENEZIA",
-        "awayTeam": "COMO",
-        "schedules": [
-            {
-                "start": "08 Mar 2025, 07:30 PM, IST",
-                "end": "08 Mar 2025, 10:30 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "09e280ad-8184-4453-8fe2-b097854791aa",
         "islive": false,
         "event": "Serie A",
@@ -43,6 +26,23 @@
         "description": "",
         "homeTeam": "TORINO ",
         "awayTeam": "PARMA ",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 07:30 PM, IST",
+                "end": "08 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "b56b2930-46a6-489b-81ec-f981de2a2b5e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "08/03 - COMO vs VENEZIA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "VENEZIA",
+        "awayTeam": "COMO",
         "schedules": [
             {
                 "start": "08 Mar 2025, 07:30 PM, IST",
@@ -102,23 +102,6 @@
         ]
     },
     {
-        "id": "93a4cdbb-f7e2-4e2b-aa57-cbcb7d1eec9b",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "08/03 - Real Sporting vs R. Racing Club",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "R. Racing Club",
-        "awayTeam": "Real Sporting",
-        "schedules": [
-            {
-                "start": "08 Mar 2025, 11:00 PM, IST",
-                "end": "09 Mar 2025, 02:00 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "21e352d3-5888-49e7-83fc-5039190f9b4c",
         "islive": false,
         "event": "LaLiga",
@@ -128,6 +111,23 @@
         "description": "",
         "homeTeam": "Real Valladolid CF",
         "awayTeam": "Valencia CF ",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 11:00 PM, IST",
+                "end": "09 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "93a4cdbb-f7e2-4e2b-aa57-cbcb7d1eec9b",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "08/03 - Real Sporting vs R. Racing Club",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "R. Racing Club",
+        "awayTeam": "Real Sporting",
         "schedules": [
             {
                 "start": "08 Mar 2025, 11:00 PM, IST",
