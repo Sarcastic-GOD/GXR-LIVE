@@ -51,23 +51,6 @@
         ]
     },
     {
-        "id": "833a4d1f-7cc4-434a-a13b-6e1d1710cdc3",
-        "islive": false,
-        "event": "La Liga Hypermotion",
-        "name": "08/03 - CD Mirandés vs Real Oviedo",
-        "broadcaster": "La Liga Hypermotion",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
-        "description": "",
-        "homeTeam": "Real Oviedo",
-        "awayTeam": "CD Mirandés",
-        "schedules": [
-            {
-                "start": "08 Mar 2025, 08:45 PM, IST",
-                "end": "08 Mar 2025, 11:45 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "7620bf0c-f5ab-4d93-a698-b4ff0eff4e9f",
         "islive": false,
         "event": "LaLiga",
@@ -77,6 +60,23 @@
         "description": "",
         "homeTeam": "Villarreal CF",
         "awayTeam": "Deportivo Alavés",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 08:45 PM, IST",
+                "end": "08 Mar 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "833a4d1f-7cc4-434a-a13b-6e1d1710cdc3",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "08/03 - CD Mirandés vs Real Oviedo",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "Real Oviedo",
+        "awayTeam": "CD Mirandés",
         "schedules": [
             {
                 "start": "08 Mar 2025, 08:45 PM, IST",
