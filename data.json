@@ -1,1 +1,846 @@
-[]
+[
+    {
+        "id": "e752a7f5-92ca-485c-9600-7f927ecc7f4a",
+        "islive": true,
+        "event": "LaLiga",
+        "name": "08/03 - RC Celta vs CD Leganés",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "CD Leganés",
+        "awayTeam": "RC Celta",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/378fa562-6b0e-ee39-b3ac-db29604c6351/DASH/master.mpd?start=1741437870",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 06:30 PM, IST",
+                "end": "08 Mar 2025, 09:30 PM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "b56b2930-46a6-489b-81ec-f981de2a2b5e",
+        "islive": true,
+        "event": "Serie A",
+        "name": "08/03 - COMO vs VENEZIA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "VENEZIA",
+        "awayTeam": "COMO",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/1a874a3d-3c71-de4c-b3f2-74cad7c2ace7/DASH/master.mpd?start=1741441470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 07:30 PM, IST",
+                "end": "08 Mar 2025, 10:30 PM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "09e280ad-8184-4453-8fe2-b097854791aa",
+        "islive": true,
+        "event": "Serie A",
+        "name": "08/03 - PARMA vs TORINO",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "TORINO ",
+        "awayTeam": "PARMA ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/29275f6a-251a-6bf9-32ce-3236f1965d2b/DASH/master.mpd?start=1741441470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 07:30 PM, IST",
+                "end": "08 Mar 2025, 10:30 PM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "7620bf0c-f5ab-4d93-a698-b4ff0eff4e9f",
+        "islive": true,
+        "event": "LaLiga",
+        "name": "08/03 - Deportivo Alavés  vs Villarreal CF ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Villarreal CF",
+        "awayTeam": "Deportivo Alavés",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/8ceda5e1-b039-12f8-8855-50cd4114ec3d/DASH/master.mpd?start=1741445970",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 08:45 PM, IST",
+                "end": "08 Mar 2025, 11:45 PM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "833a4d1f-7cc4-434a-a13b-6e1d1710cdc3",
+        "islive": true,
+        "event": "La Liga Hypermotion",
+        "name": "08/03 - CD Mirandés vs Real Oviedo",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "Real Oviedo",
+        "awayTeam": "CD Mirandés",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/49f50bdb-8afa-45fd-96dc-5cd06fb27802/DASH/master.mpd?start=1741445970",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 08:45 PM, IST",
+                "end": "08 Mar 2025, 11:45 PM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "17023353-1dd9-48fd-b3d3-a9dee39e07f8",
+        "islive": true,
+        "event": "Serie A",
+        "name": "08/03 - LECCE vs MILAN",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "Milan",
+        "awayTeam": "LECCE ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/2fad3db1-00bb-a1db-1d0b-cb050cd85d28/DASH/master.mpd?start=1741452270",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 10:30 PM, IST",
+                "end": "09 Mar 2025, 01:30 AM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "93a4cdbb-f7e2-4e2b-aa57-cbcb7d1eec9b",
+        "islive": true,
+        "event": "La Liga Hypermotion",
+        "name": "08/03 - Real Sporting vs R. Racing Club",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "R. Racing Club",
+        "awayTeam": "Real Sporting",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/3a20850c-4d2a-4228-8aae-34a3b49b4ceb/DASH/master.mpd?start=1741454070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 11:00 PM, IST",
+                "end": "09 Mar 2025, 02:00 AM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "21e352d3-5888-49e7-83fc-5039190f9b4c",
+        "islive": true,
+        "event": "LaLiga",
+        "name": "08/03 - Valencia CF vs Real Valladolid CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Valladolid CF",
+        "awayTeam": "Valencia CF ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/d0db613a-904f-64c0-9b8c-2d81417920a6/DASH/master.mpd?start=1741454070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
+        "schedules": [
+            {
+                "start": "08 Mar 2025, 11:00 PM, IST",
+                "end": "09 Mar 2025, 02:00 AM, IST"
+            }
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
+        "id": "80e55cfc-4c39-4ef6-9a35-6b29fb86d5e0",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09/03 - INTER vs MONZA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "MONZA",
+        "awayTeam": "INTER",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 01:15 AM, IST",
+                "end": "09 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "2de4fa52-ca0a-42ee-a228-22d4fbbebc42",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - FC Barcelona vs CA Osasuna",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "CA Osasuna",
+        "awayTeam": "FC Barcelona",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 01:30 AM, IST",
+                "end": "09 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "03a4e431-9ece-43b5-aa58-d4ff221bc56a",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09/03 - HELLAS VERONA vs BOLOGNA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "BOLOGNA",
+        "awayTeam": "HELLAS VERONA",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 05:00 PM, IST",
+                "end": "09 Mar 2025, 08:00 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "30e5ea59-81b0-4e3d-b0a0-5451b26aff91",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - Getafe CF  vs Atlético de Madrid",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Atlético de Madrid",
+        "awayTeam": "Getafe CF",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 06:30 PM, IST",
+                "end": "09 Mar 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "a2bebaa2-bd88-43aa-9bdf-0d9da14b7693",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09/03 - NAPOLI vs FIORENTINA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "Fiorentina",
+        "awayTeam": "NAPOLI ",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 07:30 PM, IST",
+                "end": "09 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "2b6bc49d-66f2-4f79-815c-e93847c771bb",
+        "islive": false,
+        "event": "La Liga Hypermotion",
+        "name": "09/03 - Málaga CF vs Cádiz CF",
+        "broadcaster": "La Liga Hypermotion",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/24/Hypermotion-Generic-1737743781553.jpg",
+        "description": "",
+        "homeTeam": "Cadiz CF",
+        "awayTeam": "Málaga CF",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 08:45 PM, IST",
+                "end": "09 Mar 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "417ac8e0-842f-4572-8019-d3888ed9b330",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - Real Madrid vs Rayo Vallecano",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Rayo Vallecano",
+        "awayTeam": "Real Madrid",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 08:45 PM, IST",
+                "end": "09 Mar 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "4935d9b4-f6c3-4b8d-a2fe-4065d725e463",
+        "islive": false,
+        "event": "Serie A",
+        "name": "09/03 - EMPOLI vs ROMA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "ROMA",
+        "awayTeam": "EMPOLI ",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 10:30 PM, IST",
+                "end": "10 Mar 2025, 01:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "248a55c8-1754-4702-87b1-639e7b2b814f",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - Athletic Club vs RCD Mallorca",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RCD Mallorca",
+        "awayTeam": "Athletic Club",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 11:00 PM, IST",
+                "end": "10 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "ed690e00-eb0d-4761-b551-1f30928570b4",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - Real Betis vs UD Las Palmas",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "UD Las Palmas",
+        "awayTeam": "Real Betis",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 11:00 PM, IST",
+                "end": "10 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "13122ff2-f813-40e3-b158-abf7d08fc97d",
+        "islive": false,
+        "event": "Serie A",
+        "name": "10/03 - JUVENTUS vs ATALANTA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "ATALANTA",
+        "awayTeam": "JUVENTUS",
+        "schedules": [
+            {
+                "start": "10 Mar 2025, 01:15 AM, IST",
+                "end": "10 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "a949a031-3804-4d2e-bb46-bbedcd2310f6",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "10/03 - Real Sociedad vs Sevilla FC ",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Sevilla FC",
+        "awayTeam": "Real Sociedad",
+        "schedules": [
+            {
+                "start": "10 Mar 2025, 01:30 AM, IST",
+                "end": "10 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "33cd9250-9277-4503-8597-2431c99ef64c",
+        "islive": false,
+        "event": "Serie A",
+        "name": "11/03 - LAZIO vs UDINESE",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "UDINESE ",
+        "awayTeam": "LAZIO",
+        "schedules": [
+            {
+                "start": "11 Mar 2025, 01:15 AM, IST",
+                "end": "11 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "22228265-bd64-42a7-8586-7f4365c762d5",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "11/03 - Espanyol vs Girona FC",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Girona FC",
+        "awayTeam": "RCD Espanyol de Barcelona",
+        "schedules": [
+            {
+                "start": "11 Mar 2025, 01:30 AM, IST",
+                "end": "11 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "ec5bac0a-56ad-4d64-8c75-fc94468740e5",
+        "islive": false,
+        "event": "Serie A",
+        "name": "15/03 - GENOA vs LECCE",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "LECCE ",
+        "awayTeam": "GENOA ",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 01:15 AM, IST",
+                "end": "15 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "774c350a-dd72-4a04-8efe-b2e0c614d21c",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "15/03 - UD Las Palmas vs Deportivo Alavés",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Deportivo Alavés",
+        "awayTeam": "UD Las Palmas",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 01:30 AM, IST",
+                "end": "15 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "a8d8aab9-5643-43e4-b17d-0e10bb3f021e",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "15/03 - Real Valladolid CF vs RC Celta",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RC Celta",
+        "awayTeam": "Real Valladolid CF",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 06:30 PM, IST",
+                "end": "15 Mar 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "3a4cf2ce-19e7-42dd-bd7c-d6da81938b6e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "15/03 - MONZA vs PARMA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "PARMA ",
+        "awayTeam": "MONZA",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 07:30 PM, IST",
+                "end": "15 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "010db1b2-bd13-4b5e-a3ec-0b35431b20dd",
+        "islive": false,
+        "event": "Serie A",
+        "name": "15/03 - UDINESE vs HELLAS VERONA",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "HELLAS VERONA",
+        "awayTeam": "UDINESE ",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 07:30 PM, IST",
+                "end": "15 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "582e50bb-ba59-4117-8bc4-a5e6b12609b4",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "15/03 - RCD Mallorca vs Espanyol",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RCD Espanyol de Barcelona",
+        "awayTeam": "RCD Mallorca",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 08:45 PM, IST",
+                "end": "15 Mar 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "6af5262e-3322-4171-8ac0-eea60b800538",
+        "islive": false,
+        "event": "Serie A",
+        "name": "15/03 - MILAN vs COMO",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "COMO",
+        "awayTeam": "Milan",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 10:30 PM, IST",
+                "end": "16 Mar 2025, 01:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "eaf1a8da-117f-492d-aba1-d17e54d129da",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "15/03 - Villarreal CF vs Real Madrid",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Villarreal CF",
+        "schedules": [
+            {
+                "start": "15 Mar 2025, 11:00 PM, IST",
+                "end": "16 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "da0af1e4-d5e6-4183-9d32-7c6536c3f8dd",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16/03 - TORINO vs EMPOLI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "EMPOLI ",
+        "awayTeam": "TORINO ",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 01:15 AM, IST",
+                "end": "16 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "57b9c700-2f5c-4ccf-9921-cfd15d220268",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16/03 - Girona FC vs Valencia CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Valencia CF ",
+        "awayTeam": "Girona FC",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 01:30 AM, IST",
+                "end": "16 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "198b504f-8396-45e4-bcbb-98f625f6cf7e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16/03 - VENEZIA vs NAPOLI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "NAPOLI ",
+        "awayTeam": "VENEZIA",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 05:00 PM, IST",
+                "end": "16 Mar 2025, 08:00 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "b9b90ece-164c-4ff6-bcb4-9193880c0cfd",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16/03 - CD Leganés vs Real Betis",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Betis",
+        "awayTeam": "CD Leganés",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 06:30 PM, IST",
+                "end": "16 Mar 2025, 09:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "0db547b1-db06-4bba-947d-96cf34c9909a",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16/03 - BOLOGNA vs LAZIO",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "LAZIO",
+        "awayTeam": "BOLOGNA",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 07:30 PM, IST",
+                "end": "16 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "5a06845f-a5a5-4c03-83c7-954b03bf7e8e",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16/03 - ROMA vs CAGLIARI",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "CAGLIARI ",
+        "awayTeam": "ROMA",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 07:30 PM, IST",
+                "end": "16 Mar 2025, 10:30 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "5c4cae8a-3a5f-49f8-9dfc-7a40ec7060fd",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16/03 - Sevilla FC vs Athletic Club",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Athletic Club",
+        "awayTeam": "Sevilla FC",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 08:45 PM, IST",
+                "end": "16 Mar 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "71de1412-6a9d-4e0d-976b-cc27fd2dba44",
+        "islive": false,
+        "event": "Serie A",
+        "name": "16/03 - FIORENTINA vs JUVENTUS",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "JUVENTUS",
+        "awayTeam": "Fiorentina",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 10:30 PM, IST",
+                "end": "17 Mar 2025, 01:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "ab67f442-4699-454f-953d-f97e8d85cca1",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16/03 - Rayo Vallecano vs Real Sociedad",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Real Sociedad",
+        "awayTeam": "Rayo Vallecano",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 11:00 PM, IST",
+                "end": "17 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "6b911a41-7816-439e-801a-b94c38f5769d",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "16/03 - CA Osasuna vs Getafe CF",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Getafe CF",
+        "awayTeam": "CA Osasuna",
+        "schedules": [
+            {
+                "start": "16 Mar 2025, 11:00 PM, IST",
+                "end": "17 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "975a9c4c-b9cc-4260-a6f1-728696f24730",
+        "islive": false,
+        "event": "Serie A",
+        "name": "17/03- ATALANTA vs INTER",
+        "broadcaster": "Serie A",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/01/26/Serie-A-Generic-1737926577222.jpg",
+        "description": "",
+        "homeTeam": "INTER",
+        "awayTeam": "ATALANTA",
+        "schedules": [
+            {
+                "start": "17 Mar 2025, 01:15 AM, IST",
+                "end": "17 Mar 2025, 04:15 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "377fe49c-6cdc-4307-8900-8ff309493e5d",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "17/03 - Atlético de Madrid vs FC Barcelona",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "Atlético de Madrid",
+        "schedules": [
+            {
+                "start": "17 Mar 2025, 01:30 AM, IST",
+                "end": "17 Mar 2025, 04:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "240f0bd5-a43c-456a-bb65-f854a79dcd5e",
+        "islive": false,
+        "event": "Coppa Italia",
+        "name": "02/04 - EMPOLI vs BOLOGNA",
+        "broadcaster": "Coppa Italia",
+        "logo": "https://gxr.asset.viewlift.com/images/2024/08/09/GXR-Cards-thumbnail-169-1920-1080-1723204463285.jpg",
+        "description": "",
+        "homeTeam": "BOLOGNA",
+        "awayTeam": "EMPOLI ",
+        "schedules": [
+            {
+                "start": "02 Apr 2025, 12:30 AM, IST",
+                "end": "02 Apr 2025, 03:30 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "d8f593a9-7d75-4451-9fa2-3b103cce7e83",
+        "islive": false,
+        "event": "Coppa Italia",
+        "name": "03/04 - MILAN vs INTER",
+        "broadcaster": "Coppa Italia",
+        "logo": "https://gxr.asset.viewlift.com/images/2024/08/09/GXR-Cards-thumbnail-169-1920-1080-1723204463285.jpg",
+        "description": "",
+        "homeTeam": "INTER",
+        "awayTeam": "Milan",
+        "schedules": [
+            {
+                "start": "03 Apr 2025, 12:30 AM, IST",
+                "end": "03 Apr 2025, 03:30 AM, IST"
+            }
+        ]
+    }
+]
