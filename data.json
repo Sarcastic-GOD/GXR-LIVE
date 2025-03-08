@@ -344,23 +344,6 @@
         ]
     },
     {
-        "id": "248a55c8-1754-4702-87b1-639e7b2b814f",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "09/03 - Athletic Club vs RCD Mallorca",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "RCD Mallorca",
-        "awayTeam": "Athletic Club",
-        "schedules": [
-            {
-                "start": "09 Mar 2025, 11:00 PM, IST",
-                "end": "10 Mar 2025, 02:00 AM, IST"
-            }
-        ]
-    },
-    {
         "id": "ed690e00-eb0d-4761-b551-1f30928570b4",
         "islive": false,
         "event": "LaLiga",
@@ -370,6 +353,23 @@
         "description": "",
         "homeTeam": "UD Las Palmas",
         "awayTeam": "Real Betis",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 11:00 PM, IST",
+                "end": "10 Mar 2025, 02:00 AM, IST"
+            }
+        ]
+    },
+    {
+        "id": "248a55c8-1754-4702-87b1-639e7b2b814f",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - Athletic Club vs RCD Mallorca",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "RCD Mallorca",
+        "awayTeam": "Athletic Club",
         "schedules": [
             {
                 "start": "09 Mar 2025, 11:00 PM, IST",
