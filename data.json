@@ -262,7 +262,7 @@
     },
     {
         "id": "2de4fa52-ca0a-42ee-a228-22d4fbbebc42",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "09/03 - FC Barcelona vs CA Osasuna",
         "broadcaster": "LaLiga",
@@ -270,12 +270,24 @@
         "description": "",
         "homeTeam": "CA Osasuna",
         "awayTeam": "FC Barcelona",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/668773e9-553f-0b2d-c386-cfef3d8156d7/DASH/master.mpd?start=1741463070",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Mar 2025, 01:30 AM, IST",
                 "end": "09 Mar 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "03a4e431-9ece-43b5-aa58-d4ff221bc56a",
