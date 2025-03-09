@@ -88,7 +88,7 @@
     },
     {
         "id": "417ac8e0-842f-4572-8019-d3888ed9b330",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "09/03 - Real Madrid vs Rayo Vallecano",
         "broadcaster": "LaLiga",
@@ -96,16 +96,28 @@
         "description": "",
         "homeTeam": "Rayo Vallecano",
         "awayTeam": "Real Madrid",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/740c3512-b850-31ab-accd-1c8ad9e90626/DASH/master.mpd?start=1741532370",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Mar 2025, 08:45 PM, IST",
                 "end": "09 Mar 2025, 11:45 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "2b6bc49d-66f2-4f79-815c-e93847c771bb",
-        "islive": false,
+        "islive": true,
         "event": "La Liga Hypermotion",
         "name": "09/03 - Málaga CF vs Cádiz CF",
         "broadcaster": "La Liga Hypermotion",
@@ -113,12 +125,24 @@
         "description": "",
         "homeTeam": "Cadiz CF",
         "awayTeam": "Málaga CF",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/ba6e2151-1fbe-46c6-ab25-8fd4e24ad414/DASH/master.mpd?start=1741532370",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Mar 2025, 08:45 PM, IST",
                 "end": "09 Mar 2025, 11:45 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "4935d9b4-f6c3-4b8d-a2fe-4065d725e463",
