@@ -30,7 +30,7 @@
     },
     {
         "id": "30e5ea59-81b0-4e3d-b0a0-5451b26aff91",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "09/03 - Getafe CF  vs Atlético de Madrid",
         "broadcaster": "LaLiga",
@@ -38,12 +38,24 @@
         "description": "",
         "homeTeam": "Atlético de Madrid",
         "awayTeam": "Getafe CF",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/06064ac1-1652-87d7-2483-2f77b76069a5/DASH/master.mpd?start=1741524270",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Mar 2025, 06:30 PM, IST",
                 "end": "09 Mar 2025, 09:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "a2bebaa2-bd88-43aa-9bdf-0d9da14b7693",
