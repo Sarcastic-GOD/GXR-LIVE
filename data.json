@@ -59,7 +59,7 @@
     },
     {
         "id": "a2bebaa2-bd88-43aa-9bdf-0d9da14b7693",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "09/03 - NAPOLI vs FIORENTINA",
         "broadcaster": "Serie A",
@@ -67,12 +67,24 @@
         "description": "",
         "homeTeam": "Fiorentina",
         "awayTeam": "NAPOLI ",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/42e5d5be-f1ba-a588-5fc9-7cbadb16358a/DASH/master.mpd?start=1741527870",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "09 Mar 2025, 07:30 PM, IST",
                 "end": "09 Mar 2025, 10:30 PM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "2b6bc49d-66f2-4f79-815c-e93847c771bb",
