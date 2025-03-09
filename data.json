@@ -51,23 +51,6 @@
         ]
     },
     {
-        "id": "417ac8e0-842f-4572-8019-d3888ed9b330",
-        "islive": false,
-        "event": "LaLiga",
-        "name": "09/03 - Real Madrid vs Rayo Vallecano",
-        "broadcaster": "LaLiga",
-        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
-        "description": "",
-        "homeTeam": "Rayo Vallecano",
-        "awayTeam": "Real Madrid",
-        "schedules": [
-            {
-                "start": "09 Mar 2025, 08:45 PM, IST",
-                "end": "09 Mar 2025, 11:45 PM, IST"
-            }
-        ]
-    },
-    {
         "id": "2b6bc49d-66f2-4f79-815c-e93847c771bb",
         "islive": false,
         "event": "La Liga Hypermotion",
@@ -77,6 +60,23 @@
         "description": "",
         "homeTeam": "Cadiz CF",
         "awayTeam": "Málaga CF",
+        "schedules": [
+            {
+                "start": "09 Mar 2025, 08:45 PM, IST",
+                "end": "09 Mar 2025, 11:45 PM, IST"
+            }
+        ]
+    },
+    {
+        "id": "417ac8e0-842f-4572-8019-d3888ed9b330",
+        "islive": false,
+        "event": "LaLiga",
+        "name": "09/03 - Real Madrid vs Rayo Vallecano",
+        "broadcaster": "LaLiga",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/02/21/LALIGA-Generic-Poster-1737808604364-1740113915108.jpg",
+        "description": "",
+        "homeTeam": "Rayo Vallecano",
+        "awayTeam": "Real Madrid",
         "schedules": [
             {
                 "start": "09 Mar 2025, 08:45 PM, IST",
