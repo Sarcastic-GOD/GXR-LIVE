@@ -233,7 +233,7 @@
     },
     {
         "id": "13122ff2-f813-40e3-b158-abf7d08fc97d",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "10/03 - JUVENTUS vs ATALANTA",
         "broadcaster": "Serie A",
@@ -241,12 +241,24 @@
         "description": "",
         "homeTeam": "ATALANTA",
         "awayTeam": "JUVENTUS",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/78ae4671-c6e4-8a78-0b1c-782a217d93c9/DASH/master.mpd?start=1741548570",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "10 Mar 2025, 01:15 AM, IST",
                 "end": "10 Mar 2025, 04:15 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "a949a031-3804-4d2e-bb46-bbedcd2310f6",
