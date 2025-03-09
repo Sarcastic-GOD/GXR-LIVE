@@ -262,7 +262,7 @@
     },
     {
         "id": "a949a031-3804-4d2e-bb46-bbedcd2310f6",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "10/03 - Real Sociedad vs Sevilla FC ",
         "broadcaster": "LaLiga",
@@ -270,12 +270,24 @@
         "description": "",
         "homeTeam": "Sevilla FC",
         "awayTeam": "Real Sociedad",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/fbf74c62-14af-a654-c1c2-25b7e8b5ba6f/DASH/master.mpd?start=1741549470",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "10 Mar 2025, 01:30 AM, IST",
                 "end": "10 Mar 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "33cd9250-9277-4503-8597-2431c99ef64c",
