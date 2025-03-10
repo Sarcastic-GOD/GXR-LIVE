@@ -1,7 +1,7 @@
 [
     {
         "id": "33cd9250-9277-4503-8597-2431c99ef64c",
-        "islive": false,
+        "islive": true,
         "event": "Serie A",
         "name": "11/03 - LAZIO vs UDINESE",
         "broadcaster": "Serie A",
@@ -9,12 +9,24 @@
         "description": "",
         "homeTeam": "UDINESE ",
         "awayTeam": "LAZIO",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/634d1050-9da2-d58c-b232-6d53d2e39650/DASH/master.mpd?start=1741634970",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "11 Mar 2025, 01:15 AM, IST",
                 "end": "11 Mar 2025, 04:15 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "22228265-bd64-42a7-8586-7f4365c762d5",
