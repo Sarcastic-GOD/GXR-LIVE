@@ -30,7 +30,7 @@
     },
     {
         "id": "22228265-bd64-42a7-8586-7f4365c762d5",
-        "islive": false,
+        "islive": true,
         "event": "LaLiga",
         "name": "11/03 - Espanyol vs Girona FC",
         "broadcaster": "LaLiga",
@@ -38,12 +38,24 @@
         "description": "",
         "homeTeam": "Girona FC",
         "awayTeam": "RCD Espanyol de Barcelona",
+        "stream": "https://cdn-vl-gcp-g-01.vos360.video/Content/LiveEvent/a57131c0-097a-8c5d-211e-c17015f9b39b/DASH/master.mpd?start=1741635870",
+        "hex": "1eb79728f5994eb18eadbb5b885103de:ad8c388edde7bbb722245ec3b019c9aa",
         "schedules": [
             {
                 "start": "11 Mar 2025, 01:30 AM, IST",
                 "end": "11 Mar 2025, 04:30 AM, IST"
             }
-        ]
+        ],
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "rYw4jO3ne7tyIUXsOwGcmg",
+                    "kid": "HrWXKPWZTrGOrbtbiFEA3g"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "id": "ec5bac0a-56ad-4d64-8c75-fc94468740e5",
